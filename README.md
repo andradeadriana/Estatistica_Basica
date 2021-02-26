@@ -1,4 +1,4 @@
-# **Estatística Básica e Introdução à Bioestatística**
+# **Estatística Básica**
 
 
 ### Introdução - Como a disciplina vai funcionar
