@@ -16,6 +16,9 @@ Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relaç�
 
 Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....
 
+
+
+
 ===============================================================================================================================================================================
 
 
