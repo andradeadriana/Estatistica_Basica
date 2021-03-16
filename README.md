@@ -56,14 +56,12 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 + Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
 
-+ Tutorial de compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
++ Tutorial sobre compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
 
 
-+ Tutorial [![alt text](/wp-smaller.png)](https://www.youtube.com/watch?v=plF3TUEw0Lg)
+ **Slides com Mini Tutoriais de R**
 
- **Tutoriais de R**
-
-+ Instação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
++ Instalação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
 + Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
 + Análise Univariada e Bivariada no R [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
 
@@ -95,7 +93,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 *Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades…*
 *Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....*
 
-**Análise Bidimensional - Variáveis Quantitativas
+**Análise Bidimensional - Variáveis Quantitativas**
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
@@ -105,7 +103,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
                                                     
                                                     
                                                     
->> **Análise Bidimensional - Variáveis Qualitativas
+**Análise Bidimensional - Variáveis Qualitativas**
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
@@ -115,7 +113,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
                                                                                                        
 
      
-> **Introdução à Probabilidade 
+ **Introdução à Probabilidade **
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
