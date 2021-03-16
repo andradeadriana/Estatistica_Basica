@@ -56,7 +56,10 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 + Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
 
-+ Tutorial de compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg)
++ Tutorial de compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
+
+
++ Tutorial [![alt text](/wp-smaller.png)](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
  **Tutoriais de R**
 
