@@ -7,23 +7,25 @@ andrade.ufrrj@mail.com
 Neste ambiente serão disponibilizados materiais relacionados com as disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina encerra com a distussão de técnicas de inferênica estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra.
 
 
+****************************************************************************************************************************************************************************
+
 ### **PROGRAMA:**
 
-- Apresentação da Disciplina
+- **Apresentação da Disciplina
 
-- Apresentação dos dados em Tabelas
+- **Apresentação dos dados em Tabelas
 
-- Apresentação dos dados em Gráficos
+- **Apresentação dos dados em Gráficos
 
-- Medidas de Posição e Tendência Central
+- **Medidas de Posição e Tendência Central
 
-- Medidas de Dispersão
+- **Medidas de Dispersão
 
-- Assimetria e Boxplot
+- **Assimetria e Boxplot
 
-- Análise Bidimensional - Variáveis Quantitativas
+- **Análise Bidimensional - Variáveis Quantitativas
 
-- Análise Bidimensional - Variáveis Qualitativas
+- **Análise Bidimensional - Variáveis Qualitativas
 
 - Introdução à Probabilidade
 
@@ -36,11 +38,11 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 Bibliografias
 
-- Bibliografia Básica
+> Bibliografia Básica
 Wilton O. Bussab; Pedro A. Morettin. Estatística Básica. Editora Saraiva
 Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
-- Bibliografia Complementar
+> Bibliografia Complementar
 
 
 
