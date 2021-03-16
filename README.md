@@ -68,7 +68,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 # **Monitoria**
 
-O departamento conta com Monitores para darem suporte aos alunos. Clique no link para acessar o contato e horário dos monitores [link]()
+O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
 ![image](https://user-images.githubusercontent.com/8046998/111333027-0c31df00-8651-11eb-95d3-ce7a301fccb3.png)
 
