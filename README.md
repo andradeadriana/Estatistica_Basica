@@ -58,14 +58,6 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 + Tutorial sobre compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
 
 
-
- **Slides com Mini Tutoriais de R**
-
-+ Instalação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
-+ Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
-+ Análise Univariada e Bivariada no R [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
-
-
 ****************************************************************************************************************************************************************************
 
 **Monitoria**
@@ -120,15 +112,13 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
   
 |    Tópico                               | Material              | Link              
 |-----------------------------------------| -------------------   | ------------------- 
-| Análise Bidimensional - Qualitativa     | VideoAula             | [link](https://drive.google.com/file/d/1XwuZ7pVDtkHdLIWNH5HoeGmxK0-xakfR/view?usp=sharing) 
-|                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
-|                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)                   
-|Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing)
+|Análise Bidimensional - Quantitativa     | VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing)
 |                                         | Slides da Aula        | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing)  
 |                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing)      
 |                                                                                                       
- 
-       
- 
+| Análise Bidimensional - Qualitativa     | VideoAula             | [link](https://drive.google.com/file/d/1XwuZ7pVDtkHdLIWNH5HoeGmxK0-xakfR/view?usp=sharing) 
+|                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
+|                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
+| Trabalho Prática com R                  | Instruções            | [link](https://drive.google.com/file/d/10x6Tljn4tjh06X0QAJqX9fOzCCWgjDNY/view?usp=sharing)        
  
 
