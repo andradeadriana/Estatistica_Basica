@@ -5,6 +5,9 @@ Prof. Adriana Andrade (DEMAT/UFRRJ)
 
 andrade.ufrrj@gmail.com
 
+|Quadro de Avisos|
+|---------|
+| P1 em 16/03/2021|
 
 ######################**Quadro de Avisos**######################
 # 
