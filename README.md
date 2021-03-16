@@ -122,26 +122,17 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
                  
                                                     
 
-    Tópico                               | Material              | Link              
------------------------------------------| -------------------   | ------------------- 
- Análise Bidimensional - Qualitativa     | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
-                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
-                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)                    
-Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
-                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)    
-                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)        
-                                                                                                        
+|    Tópico                               | Material              | Link              
+|-----------------------------------------| -------------------   | ------------------- 
+| Análise Bidimensional - Qualitativa     | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
+|                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
+|                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)                   
+|Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing)
+|                                         | Slides da Aula        | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing)  
+|                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing)      
+|                                                                                                       
  
- 
-**Tópico**                               | **Material**          | **Link**             
------------------------------------------| -------------------   | ------------------- 
-                                         | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
-Análise Bidimensional - Qualitativa      | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
-                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)                    
------------------------------------------| -------------------   | -------------------
-Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
-                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)    
-|                                        | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)        
+       
  
  
 
