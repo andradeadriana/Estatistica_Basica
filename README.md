@@ -5,6 +5,11 @@ Prof. Adriana Andrade (DEMAT/UFRRJ)
 
 andrade.ufrrj@gmail.com
 
+
+######################**Quadro de Avisos**######################
+# 
+#
+################################################################
 ##IMPORTANTE
 
 Informações sobre aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
@@ -14,58 +19,51 @@ Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relaç�
 
 Art. 31 § 1o - Para as atividades remotas síncronas haverá aferição de assiduidade…
 
-#PROGRAMA:
+#**PROGRAMA**:
 
-Introdução à Estatística
+- Apresentação da Disciplina
 
-Apresentação dos dados em Tabelas
+- Apresentação dos dados em Tabelas
 
-Apresentação dos dados em Gráficos
+- Apresentação dos dados em Gráficos
 
-Medidas de Posição e Tendência Central
+- Medidas de Posição e Tendência Central
 
-Medidas de Dispersão
+- Medidas de Dispersão
 
-Assimetria e Boxplot
+- Assimetria e Boxplot
 
-Associação entre duas Variáveis
+- Associação entre duas Variáveis
 
-Introdução à Probabilidade
+- Introdução à Probabilidade
 
-Variáveis Aleatórias Discretas
+- Variáveis Aleatórias Discretas
 
-Variáveis Aleatórias Contínuas
+- Variáveis Aleatórias Contínuas
 
-Introdução à Inferência Estatística
+- Introdução à Inferência Estatística
+- 
 
-Bibliografias
+#Bibliografias#
 
-Bibliografia Básica
+#Bibliografia Básica#
 Wilton O. Bussab; Pedro A. Morettin. Estatística Básica. Editora Saraiva
 Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
-Bibliografia Complementar
+#Bibliografia Complementar#
 
 
-Instalação o pacote estatístico R
+#Instalação do pacote estatístico R#
 
-### Introdução - Como a disciplina vai funcionar
-
-## Aulas Síncronas
-
-1 Apresentação 
-2 Tabelas de Distribuição de Frequêc
+[Tutorial de instalação do R]()
+[Tutorial de compilador do R para celular]
 
 
-## Atividades Complementares
+#Tutoriais de R#
 
-- Videoaulas
-- Listas de Exercícios
-
-## Software R
-
-
-## Avaliação
+[Instação do R e uso inicial]
+[Obtenção de Tabelas e Gráficos no R]
+[Análise Univariada e Bivariada no R]
 
 
 ## Cronograma 
@@ -77,6 +75,13 @@ Instalação o pacote estatístico R
 
 
 ## Materiais
+
+Tipo de Atividade	 
+Videoaula sobre  Elaboração de tabelas [link]
+
+
+
+
 
 | Data                  | Aula                | Material           |
 | -------------------   | ------------------- |------------------- |
