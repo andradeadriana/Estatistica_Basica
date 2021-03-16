@@ -9,7 +9,7 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 ****************************************************************************************************************************************************************************
 
-### **PROGRAMA**
+## **PROGRAMA**
 
 - Apresentação da Disciplina
 
@@ -52,13 +52,13 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 ****************************************************************************************************************************************************************************
 
-# **Instalação do pacote estatístico R**
+### **Instalação do pacote estatístico R**
 
 + Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
 + Tutorial sobre compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
 
 
-# **Slides de Mini-Tutoriais**
+### **Slides de Mini-Tutoriais**
 - Instalação, gráficos e tabelas [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
 - Obtenção de Medidas Univariadas e Bivariadas [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
 - Análise de base de dados [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
@@ -66,7 +66,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 ****************************************************************************************************************************************************************************
 
-# **Monitoria**
+### **Monitoria**
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
