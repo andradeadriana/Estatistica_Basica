@@ -49,13 +49,13 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 ****************************************************************************************************************************************************************************
 
-# **Instalação do pacote estatístico R
+### **Instalação do pacote estatístico R**
 
 > [Tutorial de instalação do R] [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
 > [Tutorial de compilador do R para celular] [link](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
 
-#Tutoriais de R#
+### **Tutoriais de R**
 
 > Instação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
 > Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
