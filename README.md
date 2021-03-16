@@ -41,21 +41,23 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 **Bibliografias**
 
 > Bibliografia Básica
+
 Wilton O. Bussab; Pedro A. Morettin. Estatística Básica. Editora Saraiva
+
 Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
+
 
 > Bibliografia Complementar
 
 
 ****************************************************************************************************************************************************************************
 
-### **Instalação do pacote estatístico R**
+**Instalação do pacote estatístico R**
 
-> [Tutorial de instalação do R] [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
-> [Tutorial de compilador do R para celular] [link](https://www.youtube.com/watch?v=plF3TUEw0Lg)
+>> Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
+>> Tutorial de compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
-
-### **Tutoriais de R**
+ **Tutoriais de R**
 
 > Instação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
 > Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
@@ -80,21 +82,16 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 |   18/03/2021          |  Introdução à Probabilidae  | Atividades Complementares|
 |   18/03/2021          |  Introdução à Probabilidae  | Aula Síncrona - Google Meet|
 
-===============================================================================================================================================================================
-
-
-
-
 
 ## Materiais
 
-##IMPORTANTE
+**IMPORTANTE**
 Informações sobre aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
 Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:
 *Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades…*
 *Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....*
 
-> **Análise Bidimensional - Variáveis Quantitativas
+**Análise Bidimensional - Variáveis Quantitativas
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
@@ -104,7 +101,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
                                                     
                                                     
                                                     
-> **Análise Bidimensional - Variáveis Qualitativas
+>> **Análise Bidimensional - Variáveis Qualitativas
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
