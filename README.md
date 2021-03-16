@@ -55,8 +55,8 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 **Instalação do pacote estatístico R**
 
 + Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
-
 + Tutorial sobre compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
+
 
 
  **Slides com Mini Tutoriais de R**
@@ -72,7 +72,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 ## Cronograma 
 
 
-| Data                  |  Tema                                          |   Atividade   |
+| Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
 |   02/03/2021          |  Análise Bidimensional - Variáveis Quantitativas | Atividades Complementares |
 |   04/03/2021          |  Análise Bidimensional - Variáveis Quantitativas  | Aula Síncrona - Google Meet|
@@ -99,21 +99,18 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | -------------------   | ------------------- |
 | VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing) |
 | Slides da Aula        | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing) |    
-| Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing) |                       
-                                                    
-                                                    
-                                                    
-**Análise Bidimensional - Variáveis Qualitativas**
+| Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing) |  
+
+
+**Análise Bidimensional - Variáveis Quantitativas**
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
-| VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) |
-| Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing) |    
-| Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) |                       
-                                                                                                       
-
-     
- **Introdução à Probabilidade **
+| VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing) |
+| Slides da Aula        | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing) |    
+| Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing) |                   
+                 
+  **Introdução à Probabilidade**
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
@@ -121,8 +118,20 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | VideoAula - parte 2            | [link] ()|
 | Slides da Aula        | [link] |    
 | Lista de Exercícios   | [link] |                       
+                                                              
+                 
                                                     
 
+|**Tópico                                 | Material              | Link**              | 
+|-----------------------------------------| -------------------   | ------------------- |
+|Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) |
+|Análise Bidimensional - Qualitativa      | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing) |    
+|Análise Bidimensional - Qualitativa      | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) |                  |**Tópico                                 | Material              | Link**              | 
+|-----------------------------------------| -------------------   | ------------------- |
+|Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) |
+|Análise Bidimensional - Qualitativa      | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing) |    
+|Análise Bidimensional - Qualitativa      | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) |       
+                                                                                                       
 
 
 
