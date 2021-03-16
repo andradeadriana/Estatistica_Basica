@@ -6,24 +6,7 @@
 Neste ambiente serão disponibilizados materiais relacionados com as disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina encerra com a distussão de técnicas de inferênica estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra.
 
 
-===============================================================================================================================================================================
-
-#IMPORTANTE
-Informações sobre aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
-Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:
-
-Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades…
-
-Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....
-
-
-
-
-===============================================================================================================================================================================
-
-
-
-**PROGRAMA:**
+###**PROGRAMA:**
 
 - Apresentação da Disciplina
 
@@ -58,7 +41,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 > Bibliografia Complementar
 
-===============================================================================================================================================================================
+
 
 #Instalação do pacote estatístico R
 
@@ -72,7 +55,6 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 > Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
 > Análise Univariada e Bivariada no R [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
 
-===============================================================================================================================================================================
 
 ## Cronograma 
 
@@ -91,7 +73,17 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 ===============================================================================================================================================================================
 
+
+
+
+
 ## Materiais
+
+##IMPORTANTE
+Informações sobre aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
+Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:
+*Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades…*
+*Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....*
 
 > **Análise Bidimensional - Variáveis Quantitativas
 
@@ -122,6 +114,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 | Slides da Aula        | [link] |    
 | Lista de Exercícios   | [link] |                       
                                                     
+
 
 
 
