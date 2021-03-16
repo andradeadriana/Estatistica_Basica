@@ -68,6 +68,15 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 ****************************************************************************************************************************************************************************
 
+**Monitoria**
+
+O departamento conta com Monitores para darem suporte aos alunos. Clique no link para acessar o contato e horário dos monitores [link]()
+
+![image](https://user-images.githubusercontent.com/8046998/111333027-0c31df00-8651-11eb-95d3-ce7a301fccb3.png)
+
+
+****************************************************************************************************************************************************************************
+
 
 ## Cronograma 
 
@@ -93,35 +102,8 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 *Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades…*
 *Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....*
 
-**Análise Bidimensional - Variáveis Quantitativas**
-
-| Material              | Link                | 
-| -------------------   | ------------------- |
-| VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing) |
-| Slides da Aula        | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing) |    
-| Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing) |  
-
-
-**Análise Bidimensional - Variáveis Quantitativas**
-
-| Material              | Link                | 
-| -------------------   | ------------------- |
-| VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing) |
-| Slides da Aula        | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing) |    
-| Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing) |                   
-                 
-  **Introdução à Probabilidade**
-
-| Material              | Link                | 
-| -------------------   | ------------------- |
-| VideoAula - parte 1            | [link] ()|
-| VideoAula - parte 2            | [link] ()|
-| Slides da Aula        | [link] |    
-| Lista de Exercícios   | [link] |                       
-                                                              
-                 
-                                                    
-
+                  
+  
 |    Tópico                               | Material              | Link              
 |-----------------------------------------| -------------------   | ------------------- 
 | Análise Bidimensional - Qualitativa     | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
