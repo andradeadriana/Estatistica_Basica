@@ -69,8 +69,8 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 #Tutoriais de R#
 
 > Instação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
-> Obtenção de Tabelas e Gráficos no R [link] (https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
-> Análise Univariada e Bivariada no R [link] (https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
+> Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
+> Análise Univariada e Bivariada no R [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
 
 ===============================================================================================================================================================================
 
