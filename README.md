@@ -122,6 +122,17 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
                  
                                                     
 
+    Tópico                               | Material              | Link              
+-----------------------------------------| -------------------   | ------------------- 
+ Análise Bidimensional - Qualitativa     | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
+                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
+                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)                    
+Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
+                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)    
+                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)        
+                                                                                                        
+ 
+ 
 **Tópico**                               | **Material**          | **Link**             
 -----------------------------------------| -------------------   | ------------------- 
                                          | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
@@ -131,6 +142,6 @@ Análise Bidimensional - Qualitativa      | Slides da Aula        | [link](https
 Análise Bidimensional - Qualitativa      | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) 
                                          | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)    
 |                                        | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)        
-                                                                                                       
-
+ 
+ 
 
