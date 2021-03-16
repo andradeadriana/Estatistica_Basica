@@ -7,13 +7,15 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 
 ===============================================================================================================================================================================
+
 #IMPORTANTE
 Informações sobre aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
 Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:
 
 Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades…
 
-Art. 31 § 1o - Para as atividades remotas síncronas haverá aferição de assiduidade…
+Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....
+
 ===============================================================================================================================================================================
 
 
@@ -88,7 +90,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 ## Materiais
 
-**> Análise Bidimensional - Variáveis Quantitativas
+> **Análise Bidimensional - Variáveis Quantitativas
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
@@ -98,17 +100,17 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
                                                     
                                                     
                                                     
- **> Análise Bidimensional - Variáveis Qualitativas
+> **Análise Bidimensional - Variáveis Qualitativas
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
-| VideoAula             | [link] (https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing)|
-| Slides da Aula        | [link] (https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)|    
-| Lista de Exercícios   | [link] (https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing)|                       
+| VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) |
+| Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing) |    
+| Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) |                       
                                                                                                        
 
      
-**> Introdução à Probabilidade 
+> **Introdução à Probabilidade 
 
 | Material              | Link                | 
 | -------------------   | ------------------- |
