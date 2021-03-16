@@ -75,13 +75,13 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
 |   02/03/2021          |  Análise Bidimensional - Variáveis Quantitativas | Atividades Complementares |
-|   04/03/2021          |  Análise Bidimensional - Variáveis Quantitativas  | Aula Síncrona - Google Meet|
-|   09/03/2021          |  Análise Bidimensional - Variáveis Qualitativas | Atividades Complementares |
-|   04/03/2021          |  Análise Bidimensional - Variáveis Qualitativas  | Aula Síncrona - Google Meet|
+|   04/03/2021          |                                                  | Aula Síncrona - Google Meet|
+|   09/03/2021          |  Análise Bidimensional - Variáveis Qualitativas  | Atividades Complementares |
+|   04/03/2021          |                                                  | Aula Síncrona - Google Meet|
 |   11/03/2021          |  Laboratório R  | Aula Síncrona - Google Meet|
 |   16/03/2021          |  Prova 1        | Aula Síncrona - Google Meet|
 |   18/03/2021          |  Laboratório R  | Aula Síncrona - Google Meet|
-|   18/03/2021          |  Introdução à Probabilidae  | Atividades Complementares|
+|   18/03/2021          |  Introdução à Probabilidade  | Atividades Complementares|
 |   18/03/2021          |  Introdução à Probabilidae  | Aula Síncrona - Google Meet|
 
 
@@ -135,8 +135,12 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 
 
 
-
-  
+****************************************************************************************************************************************************************************
+**Tópico                        **Material**                      **Link**
+****************************************************************************************************************************************************************************
+|                                         | VideoAula             | [link](https://drive.google.com/file/d/1IwBDOxWVoUcOkunrMtOz8YhkbJt1quA0/view?usp=sharing) |
+|Análise Bidimensional - Qualitativa      | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing) |    
+|                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) |   
   
   
   
