@@ -91,7 +91,21 @@ O departamento conta com Monitores para darem suporte aos alunos. Clique no link
 |   16/03/2021          |  Prova 1        | Aula Síncrona - Google Meet|
 |   18/03/2021          |  Laboratório R  | Aula Síncrona - Google Meet|
 |   18/03/2021          |  Introdução à Probabilidade  | Atividades Complementares|
-|   18/03/2021          |  Introdução à Probabilidae  | Aula Síncrona - Google Meet|
+|   23/03/2021          |  Introdução à Probabilidade  | Aula Síncrona - Google Meet|
+|   25/03/2021          |  Apresentação do Trabalho    | Aula Síncrona - Google Meet|
+|   25/03/2021          |  Variáveis Aleatórias Discretas | Atividades Complementares|
+|   30/03/2021          |   Variáveis Aleatórias Discretas| Aula Síncrona - Google Meet|
+|   01/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Atividades Complementares|
+|   06/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Aula Síncrona - Google Meet|
+|   08/04/2021          |  Modelos de Variáveis Aleatórias Contínuas | Atividades Complementares|
+|   13/04/2021          |  Modelos de Variáveis Aleatórias Contínuas | Aula Síncrona - Google Meet|
+|   15/04/2021          |  Distribuição Normal | Atividades Complementares|
+|   20/04/2021          |  Distribuição Normal | Aula Síncrona - Google Meet|
+|   22/04/2021          |  Introdução à Inferência Estatística| Atividades Complementares|
+|   27/04/2021          |  Introdução à Inferência Estatística | Aula Síncrona - Google Meet|
+|   29/04/2021          |  Segunda Chamada| |
+|   04/04/2021          |  Prova 2| |
+|   06/04/2021          |  Optativa| |
 
 
 ## Materiais
