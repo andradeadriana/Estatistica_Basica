@@ -10,6 +10,8 @@ andrade.ufrrj@gmail.com
 # 
 #
 ################################################################
+
+
 ##IMPORTANTE
 
 Informações sobre aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
@@ -55,7 +57,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 #Instalação do pacote estatístico R#
 
-[Tutorial de instalação do R]()
+[Tutorial de instalação do R] ()
 [Tutorial de compilador do R para celular]
 
 
