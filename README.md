@@ -4,7 +4,7 @@
 **Prof. Adriana Andrade (DEMAT/UFRRJ)**
 andrade.ufrrj@mail.com
 
-Neste ambiente serão disponibilizados materiais relacionados com as disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina encerra com a distussão de técnicas de inferênica estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
+Neste ambiente serão disponibilizados materiais relacionados com as disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
 
 
 ****************************************************************************************************************************************************************************
@@ -54,14 +54,15 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 **Instalação do pacote estatístico R**
 
->> Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
->> Tutorial de compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg)
++ Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
+
++ Tutorial de compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
  **Tutoriais de R**
 
-> Instação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
-> Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
-> Análise Univariada e Bivariada no R [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
++ Instação do R e uso inicial - [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
++ Obtenção de Tabelas e Gráficos no R [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
++ Análise Univariada e Bivariada no R [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
 
 
 ****************************************************************************************************************************************************************************
