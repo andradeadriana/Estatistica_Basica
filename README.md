@@ -116,15 +116,20 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 
                   
   
-|    Tópico                               | Material              | Link              
-|-----------------------------------------| -------------------   | ------------------- 
-|Análise Bidimensional - Quantitativa     | VideoAula             | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing)
-|                                         | Slides da Aula        | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing)  
-|                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing)      
-| Análise Bidimensional - Qualitativa     | VideoAula             | [link](https://drive.google.com/file/d/1XwuZ7pVDtkHdLIWNH5HoeGmxK0-xakfR/view?usp=sharing) 
-|                                         | Slides da Aula        | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
-|                                         | Lista de Exercícios   | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
-| Trabalho Prática com R                  | Instruções            | [link](https://drive.google.com/file/d/10x6Tljn4tjh06X0QAJqX9fOzCCWgjDNY/view?usp=sharing)        
-| Comandos para utilizar no trabalho      | Script do R           | [link](https://drive.google.com/file/d/15SV187DgJ_vwJovpd-Gp9uIPTDxfGnJe/view?usp=sharing) 
-| Base de dados 2019                      | Arquivo csv           | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
-| Base de dados 2019                      | Arquivo xlsx          | [link](https://drive.google.com/file/d/1mY1c0A8k9qdfYv_ZTSPjp22obexYkUfF/view?usp=sharing)
+|    Tópico                               | Material                | Link              
+|-----------------------------------------| -------------------     | ------------------- 
+|Análise Bidimensional - Quantitativa     | Videoaula               | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing)
+|                                         | Slides da Aula          | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing)  
+|                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing)      
+| Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://drive.google.com/file/d/1XwuZ7pVDtkHdLIWNH5HoeGmxK0-xakfR/view?usp=sharing) 
+|                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
+|                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
+| Trabalho Prática com R                  | Instruções              | [link](https://drive.google.com/file/d/10x6Tljn4tjh06X0QAJqX9fOzCCWgjDNY/view?usp=sharing)        
+| Comandos para utilizar no trabalho      | Script do R             | [link](https://drive.google.com/file/d/15SV187DgJ_vwJovpd-Gp9uIPTDxfGnJe/view?usp=sharing) 
+| Base de dados 2019 - formato csv        | Arquivo csv             | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
+| Base de dados 2019 - formato xlsx       | Arquivo xlsx            | [link](https://drive.google.com/file/d/1mY1c0A8k9qdfYv_ZTSPjp22obexYkUfF/view?usp=sharing)
+| Introdução à Probabilidade              | Videoaula - Parte 1     | [link](https://drive.google.com/file/d/1aLx-GXntVva18QPMGtQFVyIVXZlS4tLb/view?usp=sharing)
+|                                         | Videoaula - Parte 2     | [link](https://drive.google.com/file/d/1F50aqe-ri40W6uAkS1u1m5LJrmCN_VIc/view?usp=sharing)
+|                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1KRBWd5UqDDDWPrt0dF0tYTTPgWtE0pLN/view?usp=sharing)
+|                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/1FDKXaWquo1l5FYSjUWuRS9rAGXupcWL_/view?usp=sharing)
+|                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/12LK9qPwawXA3n5q_cCrXg8zNVZ0lsOnZ/view?usp=sharing)
