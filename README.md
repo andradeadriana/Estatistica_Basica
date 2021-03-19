@@ -101,8 +101,8 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |   20/04/2021          |  Distribuição Normal | Aula Síncrona - Google Meet|
 |   22/04/2021          |  Introdução à Inferência Estatística| Atividades Complementares|
 |   27/04/2021          |  Introdução à Inferência Estatística | Aula Síncrona - Google Meet|
-|   29/04/2021          |  Segunda Chamada| |
-|   04/04/2021          |  Prova 2| |
+|   29/04/2021          |  Prova 2| |
+|   04/04/2021          |  Segunda Chamada| |
 |   06/04/2021          |  Optativa| |
 
 
