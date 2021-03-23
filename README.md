@@ -90,9 +90,9 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |   18/03/2021          |  Laboratório R  | Aula Síncrona - Google Meet|
 |   18/03/2021          |  Introdução à Probabilidade  | Atividades Complementares|
 |   23/03/2021          |  Introdução à Probabilidade  | Aula Síncrona - Google Meet|
-|   25/03/2021          |  Apresentação do Trabalho    | Aula Síncrona - Google Meet|
 |   25/03/2021          |  Variáveis Aleatórias Discretas | Atividades Complementares|
-|   30/03/2021          |   Variáveis Aleatórias Discretas| Aula Síncrona - Google Meet|
+|   30/03/2021          |  Variáveis Aleatórias Discretas| Aula Síncrona - Google Meet|
+|   01/04/2021          |  Apresentação do Trabalho    | Aula Síncrona - Google Meet|
 |   01/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Atividades Complementares|
 |   06/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Aula Síncrona - Google Meet|
 |   08/04/2021          |  Modelos de Variáveis Aleatórias Contínuas | Atividades Complementares|
