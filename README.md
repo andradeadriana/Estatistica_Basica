@@ -154,9 +154,8 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 
 ****************************************************************************************************************************************************************************
 
-|AVISO        
+|AVISO                  |
 |-----------------------|
 | Para fazer a leitura do arquivo dados_2021.txt substitua a primeira linha de comando do Scrip por:
-|```{r, echo = FALSE}
 |dados<-read.table(choose.files(),header=T,dec=".",sep="\t")
-|```
+
