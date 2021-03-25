@@ -141,8 +141,12 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Comandos para utilizar no trabalho      | Script do R             | [link](https://drive.google.com/file/d/15SV187DgJ_vwJovpd-Gp9uIPTDxfGnJe/view?usp=sharing) 
 | Base de dados 2019 - formato csv        | Arquivo csv             | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
 | Base de dados 2019 - formato xlsx       | Arquivo xlsx            | [link](https://drive.google.com/file/d/1mY1c0A8k9qdfYv_ZTSPjp22obexYkUfF/view?usp=sharing)
+| Base de dados 2020 - formato csv        | Arquivo csv             | [link]
 | Introdução à Probabilidade              | Videoaula - Parte 1     | [link](https://drive.google.com/file/d/1aLx-GXntVva18QPMGtQFVyIVXZlS4tLb/view?usp=sharing)
 |                                         | Videoaula - Parte 2     | [link](https://drive.google.com/file/d/1F50aqe-ri40W6uAkS1u1m5LJrmCN_VIc/view?usp=sharing)
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1KRBWd5UqDDDWPrt0dF0tYTTPgWtE0pLN/view?usp=sharing)
 |                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/1FDKXaWquo1l5FYSjUWuRS9rAGXupcWL_/view?usp=sharing)
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/12LK9qPwawXA3n5q_cCrXg8zNVZ0lsOnZ/view?usp=sharing)
+| Variáveis Aleatórias Discretas          | Videoaula               | [link](https://drive.google.com/file/d/1liaa3K2exzyo4osbP6MnXtuzmo8_K2n8/view?usp=sharing) 
+|                                         | Slides da Aula          | [link](https://drive.google.com/file/d/18GibFjX7S_5X5asKpZ3oNhQIZD35KFOD/view?usp=sharing)     
+|                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1p5BZVcCgS5kx6yp2T2NIy2ZLjuKU1faW/view?usp=sharing) 
