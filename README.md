@@ -150,3 +150,6 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Variáveis Aleatórias Discretas          | Videoaula               | [link](https://drive.google.com/file/d/1liaa3K2exzyo4osbP6MnXtuzmo8_K2n8/view?usp=sharing) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/18GibFjX7S_5X5asKpZ3oNhQIZD35KFOD/view?usp=sharing)     
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1p5BZVcCgS5kx6yp2T2NIy2ZLjuKU1faW/view?usp=sharing) 
+
+
+
