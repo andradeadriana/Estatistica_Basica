@@ -141,7 +141,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Comandos para utilizar no trabalho      | Script do R             | [link](https://drive.google.com/file/d/15SV187DgJ_vwJovpd-Gp9uIPTDxfGnJe/view?usp=sharing) 
 | Base de dados 2019 - formato csv        | Arquivo csv             | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
 | Base de dados 2019 - formato xlsx       | Arquivo xlsx            | [link](https://drive.google.com/file/d/1mY1c0A8k9qdfYv_ZTSPjp22obexYkUfF/view?usp=sharing)
-| Base de dados 2020 - formato csv        | Arquivo csv             | [link]
+| Base de dados 2021 - formato txt        | Arquivo txt             | [link]
 | Introdução à Probabilidade              | Videoaula - Parte 1     | [link](https://drive.google.com/file/d/1aLx-GXntVva18QPMGtQFVyIVXZlS4tLb/view?usp=sharing)
 |                                         | Videoaula - Parte 2     | [link](https://drive.google.com/file/d/1F50aqe-ri40W6uAkS1u1m5LJrmCN_VIc/view?usp=sharing)
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1KRBWd5UqDDDWPrt0dF0tYTTPgWtE0pLN/view?usp=sharing)
@@ -152,4 +152,11 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1p5BZVcCgS5kx6yp2T2NIy2ZLjuKU1faW/view?usp=sharing) 
 
 
+****************************************************************************************************************************************************************************
 
+|AVISO        
+|-----------------------|
+| Para fazer a leitura do arquivo dados_2021.txt substitua a primeira linha de comando do Scrip por:
+|```{r, echo = FALSE}
+|dados<-read.table(choose.files(),header=T,dec=".",sep="\t")
+|```
