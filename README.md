@@ -157,6 +157,6 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |AVISO                  |
 |-----------------------|
 |Para fazer a leitura do arquivo dados_2021.txt do TRABALHO, substitua a primeira linha de comando do Script por:
-|dados<-read.table(choose.files(),header=T,dec=".",sep="\t")
+|```{r} dados<-read.table(choose.files(),header=T,dec=".",sep="\t") ```
 |Essa mudança se faz necessária pois o resultado da Pesquisa do Perfil está em um arquivo txt.
 
