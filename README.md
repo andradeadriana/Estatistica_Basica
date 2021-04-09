@@ -95,16 +95,15 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |   01/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Atividades Complementares|
 |   06/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Aula Síncrona - Google Meet|
 |   08/04/2021          |  Apresentação do Trabalho    | Aula Síncrona - Google Meet|
-|   08/04/2021          |  Modelos de Variáveis Aleatórias Contínuas | Atividades Complementares|
-|   13/04/2021          |  Modelos de Variáveis Aleatórias Contínuas | Aula Síncrona - Google Meet|
-|   15/04/2021          |  Distribuição Normal | Atividades Complementares|
-|   20/04/2021          |  Distribuição Normal | Aula Síncrona - Google Meet|
-|   22/04/2021          |  Introdução à Inferência Estatística| Atividades Complementares|
-|   27/04/2021          |  Introdução à Inferência Estatística | Aula Síncrona - Google Meet|
-|   29/04/2021          |  Prova 2| |
+|   08/04/2021          |  Distribuição Normal | Atividades Complementares|
+|   13/04/2021          |  Distribuição Normal | Aula Síncrona - Google Meet|
+|   15/04/2021          |  Introdução à Inferência Estatística| Atividades Complementares|
+|   20/04/2021          |  Introdução à Inferência Estatística | Aula Síncrona - Google Meet|
+|   22/04/2021          |  Não teremos aula  
+|   27/04/2021          |  Prova 2| |
+|   29/04/2021          |  Não teremos aula |  |
 |   04/04/2021          |  Segunda Chamada| |
 |   06/04/2021          |  Optativa| |
-
 
 ## Materiais
 
@@ -153,12 +152,39 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Modelos VA Discretas                    | Videoaula               | [link](https://drive.google.com/file/d/1wT5CIzSQB09qhfcNgg2kupnrtv-1gqz9/view?usp=sharing) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1wisZehjegaiC4lwh3rsCEcvLf8FwojYz/view?usp=sharing)     
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)
+| Variáveis Aleatórias Contínuas-Slides   | Slides                  | [link](https://drive.google.com/file/d/1L59KYvAmQrH1Lpw3Wd6jWVOOXSCiKMKD/view?usp=sharing) 
+| Não teremos essa aula.                  |                         |
+| Distribuição Normal                     | Videoaula               | [link](https://drive.google.com/file/d/1U8Kpdkf3K46vE8ESvS8lk41U7nsL6NNU/view?usp=sharing) 
+|                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1BD5s87Rle2XeloPE2Refy7gcWNurW4NZ/view?usp=sharing)     
+|                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
+|                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
+
+
+
+
+
+****************************************************************************************************************************************************************************
+
+```{r,echo=FALSE, warning=FALSE}
+
+nota<-read.csv2("C:/Users/andra/Google Drive/_UFRRJ/2020_1SEM/P1/NotaP1.csv")
+
+nota$Turma<-as.factor(nota$Turma)
+
+ggplot(data=nota)+
+  geom_boxplot(aes(x=Turma,y=Nota_P1,fill=Turma),show.legend = F)+
+  theme_gray()+
+  theme(text= element_text(size = 12,
+                           face = "bold",
+                           family="Arial Unicode MS"))+
+  labs(title ="Notas da P1 segundo Turma",xlim = "Turma", ylim = "Nota")
+
+```
 
 ****************************************************************************************************************************************************************************
 
 |AVISO                  |
 |-----------------------|
-|Para fazer a leitura do arquivo dados_2021.txt do TRABALHO, substitua a primeira linha de comando do Script por:
-|`dados<-read.table(choose.files(),header=T,dec=".",sep="\t") `
-|Essa mudança se faz necessária pois o resultado da Pesquisa do Perfil está em um arquivo txt.
+|
+
 
