@@ -160,28 +160,13 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
 
 
+****************************************************************************************************************************************************************************
 
+![image](https://user-images.githubusercontent.com/8046998/114223512-50f62080-9946-11eb-8c1e-f1d6f9502ef8.png)
 
 
 ****************************************************************************************************************************************************************************
 
-```{r,echo=FALSE, warning=FALSE}
-
-nota<-read.csv2("C:/Users/andra/Google Drive/_UFRRJ/2020_1SEM/P1/NotaP1.csv")
-
-nota$Turma<-as.factor(nota$Turma)
-
-ggplot(data=nota)+
-  geom_boxplot(aes(x=Turma,y=Nota_P1,fill=Turma),show.legend = F)+
-  theme_gray()+
-  theme(text= element_text(size = 12,
-                           face = "bold",
-                           family="Arial Unicode MS"))+
-  labs(title ="Notas da P1 segundo Turma",xlim = "Turma", ylim = "Nota")
-
-```
-
-****************************************************************************************************************************************************************************
 
 |AVISO                  |
 |-----------------------|
