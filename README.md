@@ -96,10 +96,11 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |   06/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Aula Síncrona - Google Meet|
 |   08/04/2021          |  Apresentação do Trabalho    | Aula Síncrona - Google Meet|
 |   08/04/2021          |  Distribuição Normal | Atividades Complementares|
-|   13/04/2021          |  Distribuição Normal | Aula Síncrona - Google Meet|
+|   13/04/2021          |  AULA ADIADA PARA QUINTA - DIA 15 |  |
+|   15/04/2021          |  Distribuição Normal | Aula Síncrona - Google Meet|
 |   15/04/2021          |  Introdução à Inferência Estatística| Atividades Complementares|
 |   20/04/2021          |  Introdução à Inferência Estatística | Aula Síncrona - Google Meet|
-|   22/04/2021          |  Não teremos aula  
+|   22/04/2021          |  Não teremos aula |  | 
 |   27/04/2021          |  Prova 2| |
 |   29/04/2021          |  Não teremos aula |  |
 |   04/04/2021          |  Segunda Chamada| |
@@ -160,6 +161,13 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
 
 
+|AVISO                  |
+|-----------------------|
+||
+
+
+
+
 ****************************************************************************************************************************************************************************
 
 ![image](https://user-images.githubusercontent.com/8046998/114223512-50f62080-9946-11eb-8c1e-f1d6f9502ef8.png)
@@ -168,8 +176,5 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 ****************************************************************************************************************************************************************************
 
 
-|AVISO                  |
-|-----------------------|
-|
 
 
