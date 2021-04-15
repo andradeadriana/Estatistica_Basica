@@ -130,6 +130,8 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula  
 | Assimetria e Boxplot                    | Videoaula
 |                                         | Slides da Aula  
+| Medidas Resumo para dados Agrupados     | Videoaula
+|                                         | Slides da Aula  
 |                                         | Lista de Exercícios 
 | Análise Bidimensional - Quantitativa    | Videoaula               | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing)
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing)  
@@ -159,11 +161,26 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1BD5s87Rle2XeloPE2Refy7gcWNurW4NZ/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
+| Introdução à Inferência Estatística     | Videoaula 1             | [link]() 
+|                                         | Videoaula 2             | [link]() 
+|                                         | Videoaula 3             | [link]() 
+|                                         | Slides da Aula 1        | [link]()     
+|                                         | Slides da Aula 2        | [link]()     
+|                                         | Slides da Aula 3        | [link]()     
+|                                         | Lista de Exercícios     | [link]()
+
+
+
+
+
+
+
+
 
 
 |AVISO                  |
 |-----------------------|
-|Sala [link](https://teams.microsoft.com/l/meetup-join/19:589b454d7d764f37bce10887500af96d@thread.tacv2/1618491813646?context=%7B%22Tid%22:%2270dc6ec4-74b1-4c27-81f9-d02ee2e57396%22,%22Oid%22:%22520b2415-5980-494a-bb0e-a9d66087b468%22%7D)|
+|SALA DE REVISÃO - ENTRAR SOMENTE QUANDO A PROFESSORA CHAMAR! [LINK SERÁ DISPONIBILIZADO NO DIA 22]|
 
 
 
