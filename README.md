@@ -161,12 +161,12 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1BD5s87Rle2XeloPE2Refy7gcWNurW4NZ/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
-| Introdução à Inferência Estatística     | Videoaula 1             | [link]() 
-|                                         | Videoaula 2             | [link]() 
-|                                         | Videoaula 3             | [link]() 
-|                                         | Slides da Aula 1        | [link]()     
-|                                         | Slides da Aula 2        | [link]()     
-|                                         | Slides da Aula 3        | [link]()     
+| Introdução à Inferência Estatística     | Videoaula 1             | [link](https://drive.google.com/file/d/1LIJ7NF-Y2jX3EiFFDKY6kuXQNnwh_Efs/view?usp=sharing) 
+|                                         | Videoaula 2             | [link](https://drive.google.com/file/d/18x8PZFEJDs_mI3LN3onz89eO-QYm_lAf/view?usp=sharing) 
+|                                         | Videoaula 3             | [link](https://drive.google.com/file/d/18GOd7z6BqwbxO9mNcpiEcAY9A64sBDTv/view?usp=sharing) 
+|                                         | Slides da Aula 1        | [link](https://drive.google.com/file/d/1A5hyHWgmMwAFOI1zeRNUw4zaKYpzJQwB/view?usp=sharing)     
+|                                         | Slides da Aula 2        | [link](https://drive.google.com/file/d/13dIwNNdkwNtrcyMeE0uuC4NG98WXeStR/view?usp=sharing)     
+|                                         | Slides da Aula 3        | [link](https://drive.google.com/file/d/1_X8fDcLcZcIHkfuoQ-sHBXCD-6NO3TPQ/view?usp=sharing)     
 |                                         | Lista de Exercícios     | [link]()
 
 
