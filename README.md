@@ -167,7 +167,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula 1        | [link](https://drive.google.com/file/d/1A5hyHWgmMwAFOI1zeRNUw4zaKYpzJQwB/view?usp=sharing)     
 |                                         | Slides da Aula 2        | [link](https://drive.google.com/file/d/13dIwNNdkwNtrcyMeE0uuC4NG98WXeStR/view?usp=sharing)     
 |                                         | Slides da Aula 3        | [link](https://drive.google.com/file/d/1_X8fDcLcZcIHkfuoQ-sHBXCD-6NO3TPQ/view?usp=sharing)     
-|                                         | Lista de Exercícios     | [link]()
+|                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1-7zA7uZgDaCevI_sSMK_DQRZOnY74HlR/view?usp=sharing)
 
 
 
