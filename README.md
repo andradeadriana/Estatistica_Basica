@@ -180,7 +180,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 
 |AVISO                  |
 |-----------------------|
-|SALA DE REVISÃO - ENTRAR SOMENTE QUANDO A PROFESSORA CHAMAR! [https://teams.microsoft.com/l/meetup-join/19:087d3923a25c463f900d36d0e7958c01@thread.tacv2/1619106830976?context=%7B%22Tid%22:%2270dc6ec4-74b1-4c27-81f9-d02ee2e57396%22,%22Oid%22:%22520b2415-5980-494a-bb0e-a9d66087b468%22%7D]|
+|SALA DE REVISÃO - ENTRAR SOMENTE QUANDO A PROFESSORA CHAMAR! [link](https://teams.microsoft.com/l/meetup-join/19:087d3923a25c463f900d36d0e7958c01@thread.tacv2/1619106830976?context=%7B%22Tid%22:%2270dc6ec4-74b1-4c27-81f9-d02ee2e57396%22,%22Oid%22:%22520b2415-5980-494a-bb0e-a9d66087b468%22%7D)|
 
 
 
