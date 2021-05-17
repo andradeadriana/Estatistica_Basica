@@ -133,10 +133,10 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Medidas Resumo para dados Agrupados     | Videoaula
 |                                         | Slides da Aula  
 |                                         | Lista de Exercícios 
-| Análise Bidimensional - Quantitativa    | Videoaula               | [link](https://drive.google.com/file/d/105M9i55CaoIOUQ9H4trmNKt_eAcQWM7b/view?usp=sharing)
+| Análise Bidimensional - Quantitativa    | Videoaula               | 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/10T5cMxhC1j46KjQemT2IA3D6w11_dq13/view?usp=sharing)  
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing)      
-| Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://drive.google.com/file/d/1XwuZ7pVDtkHdLIWNH5HoeGmxK0-xakfR/view?usp=sharing) 
+| Análise Bidimensional - Qualitativa     | Videoaula               | 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1ss4YstzUsQL5Ul4wy6OZVglFplgPzrVP/view?usp=sharing)     
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
 | Trabalho Prática com R                  | Instruções              | [link](https://drive.google.com/file/d/10x6Tljn4tjh06X0QAJqX9fOzCCWgjDNY/view?usp=sharing)        
@@ -144,26 +144,26 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Base de dados 2019 - formato csv        | Arquivo csv             | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
 | Base de dados 2019 - formato xlsx       | Arquivo xlsx            | [link](https://drive.google.com/file/d/1mY1c0A8k9qdfYv_ZTSPjp22obexYkUfF/view?usp=sharing)
 | TRABALHO: Base de dados 2021 - formato txt        | Arquivo txt             | [link](https://drive.google.com/file/d/12W46wqOh3uHnLCGd8SDYCNSs_1OFMmRt/view?usp=sharing)
-| Introdução à Probabilidade              | Videoaula - Parte 1     | [link](https://drive.google.com/file/d/1aLx-GXntVva18QPMGtQFVyIVXZlS4tLb/view?usp=sharing)
-|                                         | Videoaula - Parte 2     | [link](https://drive.google.com/file/d/1F50aqe-ri40W6uAkS1u1m5LJrmCN_VIc/view?usp=sharing)
+| Introdução à Probabilidade              | Videoaula - Parte 1     | 
+|                                         | Videoaula - Parte 2     | 
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1KRBWd5UqDDDWPrt0dF0tYTTPgWtE0pLN/view?usp=sharing)
 |                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/1FDKXaWquo1l5FYSjUWuRS9rAGXupcWL_/view?usp=sharing)
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/12LK9qPwawXA3n5q_cCrXg8zNVZ0lsOnZ/view?usp=sharing)
-| Variáveis Aleatórias Discretas          | Videoaula               | [link](https://drive.google.com/file/d/1liaa3K2exzyo4osbP6MnXtuzmo8_K2n8/view?usp=sharing) 
+| Variáveis Aleatórias Discretas          | Videoaula               | 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/18GibFjX7S_5X5asKpZ3oNhQIZD35KFOD/view?usp=sharing)     
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1p5BZVcCgS5kx6yp2T2NIy2ZLjuKU1faW/view?usp=sharing) 
-| Modelos VA Discretas                    | Videoaula               | [link](https://drive.google.com/file/d/1wT5CIzSQB09qhfcNgg2kupnrtv-1gqz9/view?usp=sharing) 
+| Modelos VA Discretas                    | Videoaula               | 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1wisZehjegaiC4lwh3rsCEcvLf8FwojYz/view?usp=sharing)     
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)
 | Variáveis Aleatórias Contínuas-Slides   | Slides                  | [link](https://drive.google.com/file/d/1L59KYvAmQrH1Lpw3Wd6jWVOOXSCiKMKD/view?usp=sharing) 
 | Não teremos essa aula.                  |                         |
-| Distribuição Normal                     | Videoaula               | [link](https://drive.google.com/file/d/1U8Kpdkf3K46vE8ESvS8lk41U7nsL6NNU/view?usp=sharing) 
+| Distribuição Normal                     | Videoaula               | 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1BD5s87Rle2XeloPE2Refy7gcWNurW4NZ/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
 |                                         | Lista de Exercícios     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
-| Introdução à Inferência Estatística     | Videoaula 1             | [link](https://drive.google.com/file/d/1LIJ7NF-Y2jX3EiFFDKY6kuXQNnwh_Efs/view?usp=sharing) 
-|                                         | Videoaula 2             | [link](https://drive.google.com/file/d/18x8PZFEJDs_mI3LN3onz89eO-QYm_lAf/view?usp=sharing) 
-|                                         | Videoaula 3             | [link](https://drive.google.com/file/d/18GOd7z6BqwbxO9mNcpiEcAY9A64sBDTv/view?usp=sharing) 
+| Introdução à Inferência Estatística     | Videoaula 1             | 
+|                                         | Videoaula 2             | 
+|                                         | Videoaula 3             | 
 |                                         | Slides da Aula 1        | [link](https://drive.google.com/file/d/1A5hyHWgmMwAFOI1zeRNUw4zaKYpzJQwB/view?usp=sharing)     
 |                                         | Slides da Aula 2        | [link](https://drive.google.com/file/d/13dIwNNdkwNtrcyMeE0uuC4NG98WXeStR/view?usp=sharing)     
 |                                         | Slides da Aula 3        | [link](https://drive.google.com/file/d/1_X8fDcLcZcIHkfuoQ-sHBXCD-6NO3TPQ/view?usp=sharing)     
@@ -180,7 +180,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 
 |AVISO                  |
 |-----------------------|
-|Clique no link para entrar na sala de Vista de Prova [link](https://teams.microsoft.com/l/meetup-join/19:087d3923a25c463f900d36d0e7958c01@thread.tacv2/1620143251439?context=%7B%22Tid%22:%2270dc6ec4-74b1-4c27-81f9-d02ee2e57396%22,%22Oid%22:%22520b2415-5980-494a-bb0e-a9d66087b468%22%7D)|
+|Clique no link para entrar na sala de Vista de Prova [link]()|
 
 
 
