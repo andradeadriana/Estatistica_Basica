@@ -55,6 +55,9 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 > Bibliografia Complementar
 
+TRIOLA, Mario F. et al. Introdução à estatística. Rio de Janeiro: ltc, 2005.
+
+
 
 ****************************************************************************************************************************************************************************
 
@@ -144,39 +147,38 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | **Lista de Exercícios** 
 | Análise Bidimensional - Quantitativa    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1N9Vj9RzuphinVq34F7lIyB6TmtzABM7u/view?usp=sharing)  
-|                                         | **Lista de Exercícios**     | [link](https://drive.google.com/file/d/1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ/view?usp=sharing)      
+|                                         | **Lista de Exercícios** | [link]()      
 | Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
-|                                         | **Lista de Exercícios**     | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
-| Trabalho Prática com R                  | Instruções              | [link](https://drive.google.com/file/d/10x6Tljn4tjh06X0QAJqX9fOzCCWgjDNY/view?usp=sharing)        
-| Comandos para utilizar no trabalho      | Script do R             | [link](https://drive.google.com/file/d/15SV187DgJ_vwJovpd-Gp9uIPTDxfGnJe/view?usp=sharing) 
+|                                         | **Lista de Exercícios** | [link]() 
+| Trabalho Prática com R                  | Instruções              | [link]()        
+| Comandos para utilizar no trabalho      | Script do R             | [link]() 
 | Base de dados 2019 - formato csv        | Arquivo csv             | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
 | Base de dados 2019 - formato xlsx       | Arquivo xlsx            | [link](https://drive.google.com/file/d/1mY1c0A8k9qdfYv_ZTSPjp22obexYkUfF/view?usp=sharing)
-| TRABALHO: Base de dados 2021 - formato txt        | Arquivo txt             | [link](https://drive.google.com/file/d/12W46wqOh3uHnLCGd8SDYCNSs_1OFMmRt/view?usp=sharing)
 | Introdução à Probabilidade              | Videoaula - Parte 1      | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Videoaula - Parte 2      | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1iubL6nV3uRFHWRhSCBmm1WXEujC_Oyu9/view?usp=sharing)
 |                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/15_PfOYYqn5BJIroevIU1FpvpZVkpVFS5/view?usp=sharing)
-|                                         | **Lista de Exercícios**     | [link](https://drive.google.com/file/d/12LK9qPwawXA3n5q_cCrXg8zNVZ0lsOnZ/view?usp=sharing)
+|                                         | **Lista de Exercícios**     | [link]()
 | Variáveis Aleatórias Discretas          | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1ZM5IGnrUia6iXQ_c6YFchmg5YMKd4uBv/view?usp=sharing)     
-|                                         | **Lista de Exercícios**     | [link](https://drive.google.com/file/d/1p5BZVcCgS5kx6yp2T2NIy2ZLjuKU1faW/view?usp=sharing) 
+|                                         | **Lista de Exercícios**     | [link]() 
 | Modelos VA Discretas                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/18IVAb1LpvIu_C-3LMfqjSubDg7TjDY7r/view?usp=sharing)     
-|                                         | **Lista de Exercícios**     | [link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)
+|                                         | **Lista de Exercícios**     | [link]()
 | Variáveis Aleatórias Contínuas-Slides   | Slides                  | [link](https://drive.google.com/file/d/1r28kBN8WsFo3cgFxOBivGol7dcf_vO3-/view?usp=sharing) 
 | Não teremos essa aula.                  |                         |
 | Distribuição Normal                     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
-|                                         | **Lista de Exercícios**     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
+|                                         | **Lista de Exercícios**     | [link]()
 | Introdução à Inferência Estatística     | Videoaula 1             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Videoaula 2             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Videoaula 3             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula 1        | [link](https://drive.google.com/file/d/1NF6G51Inp8_WLdohBlVVoWACoqtTnRN6/view?usp=sharing)     
 |                                         | Slides da Aula 2        | [link](https://drive.google.com/file/d/11snDzmuyTsTfG5fl_AEcIFTPA74u2rwI/view?usp=sharing)     
 |                                         | Slides da Aula 3        | [link](https://drive.google.com/file/d/1yw54MUdrY_oysEcLCcw2Nff1R7hIWgV1/view?usp=sharing)     
-|                                         | **Lista de Exercícios**     | [link](https://drive.google.com/file/d/1-7zA7uZgDaCevI_sSMK_DQRZOnY74HlR/view?usp=sharing)
+|                                         | **Lista de Exercícios**     | [link]()
 
 
 
