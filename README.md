@@ -57,6 +57,8 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 TRIOLA, Mario F. et al. Introdução à estatística. Rio de Janeiro: ltc, 2005.
 
+ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Administração e Economia.. . Cengage Learning.. 2008
+
 
 
 ****************************************************************************************************************************************************************************
