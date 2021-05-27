@@ -139,7 +139,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/19CykvMJNImFXDOe43crMEMpPQhSHQ48Q/view?usp=sharing)
 | Medidas de Dispersão                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1MPnwV5bfu11CY4S5ZlixICdU28-t23u1/view?usp=sharing)
-| Assimetria e Boxplot                    | Videoaula               | 
+| Assimetria e Boxplot                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1nXg5wfPJbWhW2Hjw6Fev7oMuwaU45ARd/view?usp=sharing)
 |                                         | **Lista de Exercícios** 
 | Análise Bidimensional - Quantitativa    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
