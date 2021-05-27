@@ -4,8 +4,14 @@
 **Prof. Adriana Andrade (DEMAT/UFRRJ)**
 andrade.ufrrj@mail.com
 
-Neste ambiente serão disponibilizados materiais relacionados com as disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
+Neste ambiente serão disponibilizados materiais relacionados com as disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina se encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
 
+
+****************************************************************************************************************************************************************************
+
+|AVISO                  |
+|-----------------------|
+| |
 
 ****************************************************************************************************************************************************************************
 
@@ -70,7 +76,7 @@ Sonia Vieira. Introdução à Bioestatística. Editora Elsevier
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
-![image](https://user-images.githubusercontent.com/8046998/111333027-0c31df00-8651-11eb-95d3-ce7a301fccb3.png)
+![image]()
 
 
 ****************************************************************************************************************************************************************************
@@ -81,30 +87,34 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
-|   02/03/2021          |  Análise Bidimensional - Variáveis Quantitativas | Atividades Complementares |
-|   04/03/2021          |                                                  | Aula Síncrona - Google Meet|
-|   09/03/2021          |  Análise Bidimensional - Variáveis Qualitativas  | Atividades Complementares |
-|   04/03/2021          |                                                  | Aula Síncrona - Google Meet|
-|   11/03/2021          |  Laboratório R  | Aula Síncrona - Google Meet|
-|   16/03/2021          |  Prova 1        | Aula Síncrona - Google Meet|
-|   18/03/2021          |  Laboratório R  | Aula Síncrona - Google Meet|
-|   18/03/2021          |  Introdução à Probabilidade  | Atividades Complementares|
-|   23/03/2021          |  Introdução à Probabilidade  | Aula Síncrona - Google Meet|
-|   25/03/2021          |  Variáveis Aleatórias Discretas | Atividades Complementares|
-|   30/03/2021          |  Variáveis Aleatórias Discretas| Aula Síncrona - Google Meet|
-|   01/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Atividades Complementares|
-|   06/04/2021          |  Modelos de Variáveis Aleatórias Discretas | Aula Síncrona - Google Meet|
-|   08/04/2021          |  Apresentação do Trabalho    | Aula Síncrona - Google Meet|
-|   08/04/2021          |  Distribuição Normal | Atividades Complementares|
-|   13/04/2021          |  AULA ADIADA PARA QUINTA - DIA 15 |  |
-|   15/04/2021          |  Distribuição Normal | Aula Síncrona - Google Meet|
-|   15/04/2021          |  Introdução à Inferência Estatística| Atividades Complementares|
-|   20/04/2021          |  Introdução à Inferência Estatística | Aula Síncrona - Google Meet|
-|   22/04/2021          |  Não teremos aula |  | 
-|   27/04/2021          |  Prova 2| |
-|   29/04/2021          |  Não teremos aula |  |
-|   04/04/2021          |  Segunda Chamada| |
-|   06/04/2021          |  Optativa| |
+|	01/06/2021	|	 Apresentação do Curso. Tipos de variáveis	|	Síncrona	|
+|	08/06/2021	|	 Tabelas e Gráficos	|	Síncrona	|
+|	10/06/2021	|	 Laboratório Software R	|	Síncrona	|
+|	15/06/2021	|	 Medidas de Posição	|	Síncrona	|
+|	17/06/2021	|		|	Assíncrona	|
+|	22/06/2021	|	 Medidas de Posição e Dispersão; Assimetria; Boxplot.	|	Síncrona	|
+|	24/06/2021	|		|	Assíncrona	|
+|	29/06/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
+|	01/07/2021	|	 Laboratório Software R	|	Síncrona	|
+|	06/07/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
+|	08/07/2021	|	PROVA 1	|		|
+|	13/07/2021	|	 Laboratório Software R	|	Síncrona	|
+|	15/07/2021	|		|	Assíncrona	|
+|	20/07/2021	|	 Introdução à Probabilidade	|	Síncrona	|
+|	22/07/2021	|		Apresentação do Trabalho|	Síncrona	|
+|	27/07/2021	|	 Variáveis Aleatórias Discretas	|	Síncrona	|
+|	29/07/2021	|		|	Assíncrona	|
+|	03/08/2021	|	 Modelos de Variável Aleatórias Discretas	|	Síncrona	|
+|	05/08/2021	|		|	Assíncrona	|
+|	10/08/2021	|	 Distribuição Normal.	|	Síncrona	|
+|	12/08/2021	|		|	Assíncrona	|
+|	17/08/2021	|	 Introdução à Inferência Estatística	|	Síncrona	|
+|	19/08/2021	|	PROVA 2	|		|
+|	24/08/2021	|	Segunda Chamada	|		|
+|	26/08/2021	|	OPTATIVA	|		|
+
+
+
 
 ## Materiais
 
@@ -118,8 +128,8 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
   
 |    Tópico                               | Material                | Link              
 |-----------------------------------------| -------------------     | ------------------- 
-| Tabelas                                 | Slides da Aula          | 
-| Gráficos - Variáveis Qualitativas       | Videoaula
+| Tabelas                                 | Slides da Aula          | []()
+| Gráficos - Variáveis Qualitativas       | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula
 | Gráficos - Variáveis Quantitativas      | Videoaula
 |                                         | Slides da Aula
@@ -178,9 +188,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 
 
 
-|AVISO                  |
-|-----------------------|
-|Clique no link para entrar na sala de Vista de Prova [link]()|
+
 
 
 
