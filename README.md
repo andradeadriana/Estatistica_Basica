@@ -67,6 +67,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 + Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
 + Tutorial sobre compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
++ Exemplo de uso do compilador do R para celular [link](https://drive.google.com/open?id=1TY-cvygeZdKG6nsQZ-xXuQ5MhH7O4JQD)
 
 
 **SLIDES DE TUTORIAL DO R**
