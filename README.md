@@ -12,7 +12,7 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 |AVISO                  |
 |-----------------------|
 | Informações sobre o funcionamento da disciplina [link](https://drive.google.com/file/d/17gW2KWu-ncGtvgoDt5zkavRD0rJAJTvj/view?usp=sharing)|
-
+|Material Laboratório R - parte  2 [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)|
 ****************************************************************************************************************************************************************************
 
 ## **PROGRAMA**
@@ -82,8 +82,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
-![image](https://user-images.githubusercontent.com/8046998/121593065-dc0c9900-ca11-11eb-9b39-8fcdc9f01a08.png)
-!
+![image](https://user-images.githubusercontent.com/8046998/124138154-c01e7500-da5c-11eb-869d-877d4beb2609.png)
 
 
 
@@ -155,7 +154,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | **Lista de Exercícios_3** | [link](https://drive.google.com/open?id=1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ)      
 | Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
-|                                         | **Lista de Exercícios** | [link]() 
+|                                         | **Lista de Exercícios_4** | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
 | Trabalho Prática com R                  | Instruções              | [link]()        
 | Comandos para utilizar no trabalho      | Script do R             | [link]() 
 | Base de dados 2019 - formato csv        | Arquivo csv             | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
