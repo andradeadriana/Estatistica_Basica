@@ -9,10 +9,10 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 ****************************************************************************************************************************************************************************
 
-|AVISO                  |
-|-----------------------|
-| Informações sobre o funcionamento da disciplina [link](https://drive.google.com/file/d/17gW2KWu-ncGtvgoDt5zkavRD0rJAJTvj/view?usp=sharing)|
-|Material Laboratório R - parte  2 [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)|
+|AVISO                  | Link|
+|-----------------------|-----|
+| Informações sobre o funcionamento da disciplina| [link](https://drive.google.com/file/d/17gW2KWu-ncGtvgoDt5zkavRD0rJAJTvj/view?usp=sharing)|
+|Material Laboratório R - parte  2 (01/jul) | [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)|
 ****************************************************************************************************************************************************************************
 
 ## **PROGRAMA**
