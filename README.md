@@ -12,7 +12,16 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 |AVISO                  | Link|
 |-----------------------|-----|
 | Informações sobre o funcionamento da disciplina| [link](https://drive.google.com/file/d/17gW2KWu-ncGtvgoDt5zkavRD0rJAJTvj/view?usp=sharing)|
-|Material Laboratório R - parte  2 (01/jul) | [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)|
+|Material Laboratório R - parte  3 (12/jul) | [Tutorial](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)|
+|Material Laboratório R   | [Script_AulaR_2021](https://drive.google.com/file/d/1C0mg_Ww72s2pTxLx-nMth6WTJHKSAFp9/view?usp=sharing)|
+|Material Laboratório R  | [dados.csv](https://drive.google.com/file/d/16aQermQZOkJ2Myo9YLWCHr2_ReJKIrOY/view?usp=sharing)|
+
+|**Trabalho**                  | Link|
+|-----------------------|-----|
+| Orientações | [link](https://drive.google.com/file/d/1e-B4PiYz8MycwRDmooz9wBbPIng66Zaw/view?usp=sharing)|
+| Base de dados|[Base_IC280](https://drive.google.com/file/d/1qJxjs1ZTbtBCnEtNacKZyE9P6TWTtmXk/view?usp=sharing)|
+
+
 ****************************************************************************************************************************************************************************
 
 ## **PROGRAMA**
@@ -155,10 +164,6 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
 |                                         | **Lista de Exercícios_4** | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
-| Trabalho Prática com R                  | Instruções              | [link]()        
-| Comandos para utilizar no trabalho      | Script do R             | [link]() 
-| Base de dados 2019 - formato csv        | Arquivo csv             | [link](https://drive.google.com/file/d/1sV7vL1_b8O9OFok6htgvTmeMsxY1OHDh/view?usp=sharing)
-| Base de dados 2019 - formato xlsx       | Arquivo xlsx            | [link](https://drive.google.com/file/d/1mY1c0A8k9qdfYv_ZTSPjp22obexYkUfF/view?usp=sharing)
 | Introdução à Probabilidade              | Videoaula - Parte 1      | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Videoaula - Parte 2      | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1iubL6nV3uRFHWRhSCBmm1WXEujC_Oyu9/view?usp=sharing)
