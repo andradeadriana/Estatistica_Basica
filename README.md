@@ -9,14 +9,14 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 ****************************************************************************************************************************************************************************
 
-|AVISO                  | Link|
+|AVISO                  | |
 |-----------------------|-----|
 | Informações sobre o funcionamento da disciplina| [link](https://drive.google.com/file/d/17gW2KWu-ncGtvgoDt5zkavRD0rJAJTvj/view?usp=sharing)|
-|Material Laboratório R - parte  3 (12/jul) | [Tutorial](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)|
+|Material Laboratório R - parte  3 (13/jul) | [Tutorial](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)|
 |Material Laboratório R   | [Script_AulaR_2021](https://drive.google.com/file/d/1C0mg_Ww72s2pTxLx-nMth6WTJHKSAFp9/view?usp=sharing)|
 |Material Laboratório R  | [dados.csv](https://drive.google.com/file/d/16aQermQZOkJ2Myo9YLWCHr2_ReJKIrOY/view?usp=sharing)|
 
-|**Trabalho**                  | Link|
+|**Trabalho**                  | |
 |-----------------------|-----|
 | Orientações | [link](https://drive.google.com/file/d/1e-B4PiYz8MycwRDmooz9wBbPIng66Zaw/view?usp=sharing)|
 | Base de dados|[Base_IC280](https://drive.google.com/file/d/1qJxjs1ZTbtBCnEtNacKZyE9P6TWTtmXk/view?usp=sharing)|
@@ -169,7 +169,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Videoaula - Parte 2      | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1iubL6nV3uRFHWRhSCBmm1WXEujC_Oyu9/view?usp=sharing)
 |                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/15_PfOYYqn5BJIroevIU1FpvpZVkpVFS5/view?usp=sharing)
-|                                         | **Lista de Exercícios**     | [link]()
+|                                         | **Lista de Exercícios_5**     | [link](https://drive.google.com/open?id=12LK9qPwawXA3n5q_cCrXg8zNVZ0lsOnZ)
 | Variáveis Aleatórias Discretas          | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1ZM5IGnrUia6iXQ_c6YFchmg5YMKd4uBv/view?usp=sharing)     
 |                                         | **Lista de Exercícios**     | [link]() 
