@@ -9,6 +9,12 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 ****************************************************************************************************************************************************************************
 
+> Notas P1 - Resultado da turma - [Boxplot](https://user-images.githubusercontent.com/8046998/126841163-432575b6-6c04-4377-b052-55f7ce61cbea.png)
+
+
+
+
+
 |AVISO                  | |
 |-----------------------|-----|
 | Informações sobre o funcionamento da disciplina| [link](https://drive.google.com/file/d/17gW2KWu-ncGtvgoDt5zkavRD0rJAJTvj/view?usp=sharing)|
