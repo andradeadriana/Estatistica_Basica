@@ -9,24 +9,7 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 ****************************************************************************************************************************************************************************
 
-> Notas P1 - Resultado da turma - [Boxplot](https://user-images.githubusercontent.com/8046998/126841163-432575b6-6c04-4377-b052-55f7ce61cbea.png)
 
-
-
-
-
-|AVISO                  | |
-|-----------------------|-----|
-| Informações sobre o funcionamento da disciplina| [link](https://drive.google.com/file/d/17gW2KWu-ncGtvgoDt5zkavRD0rJAJTvj/view?usp=sharing)|
-|Material Laboratório R - parte  3 (13/jul) | [Tutorial](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)|
-|Material Laboratório R   | [Script_AulaR_2021](https://drive.google.com/file/d/1C0mg_Ww72s2pTxLx-nMth6WTJHKSAFp9/view?usp=sharing)|
-|Material Laboratório R  | [dados.csv](https://drive.google.com/file/d/16aQermQZOkJ2Myo9YLWCHr2_ReJKIrOY/view?usp=sharing)|
-
-|**Trabalho**                  | |
-|-----------------------|-----|
-| Orientações | [link](https://drive.google.com/file/d/1e-B4PiYz8MycwRDmooz9wBbPIng66Zaw/view?usp=sharing)|
-| Base de dados|[Base_IC280](https://drive.google.com/file/d/1qJxjs1ZTbtBCnEtNacKZyE9P6TWTtmXk/view?usp=sharing)|
-| Questionário - Perguntas | [arquivo](https://drive.google.com/file/d/19Z1KXwSmgzk92Uit_AArEVtqsLQePQD7/view?usp=sharing) |
 
 
 ****************************************************************************************************************************************************************************
@@ -98,7 +81,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
-![image](https://user-images.githubusercontent.com/8046998/124138154-c01e7500-da5c-11eb-869d-877d4beb2609.png)
+Horário será divulgado em breve.
 
 
 
@@ -110,31 +93,29 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
-|	01/06/2021	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
-|	08/06/2021	|	 Tabelas e Gráficos	|	Síncrona	|
-|	10/06/2021	|	 Laboratório Software R	|	Síncrona	|
-|	15/06/2021	|	 Medidas de Posição	|	Síncrona	|
-|	17/06/2021	|		|	Assíncrona	|
-|	22/06/2021	|	 Medidas de Posição e Dispersão; Assimetria; Boxplot.	|	Síncrona	|
-|	24/06/2021	|		|	Assíncrona	|
-|	29/06/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
-|	01/07/2021	|	 Laboratório Software R	|	Síncrona	|
-|	06/07/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
-|	08/07/2021	|	PROVA 1	|		|
-|	13/07/2021	|	 Laboratório Software R	|	Síncrona	|
-|	15/07/2021	|		|	Assíncrona	|
-|	20/07/2021	|	 Introdução à Probabilidade	|	Síncrona	|
-|	22/07/2021	|		Apresentação do Trabalho|	Síncrona	|
-|	27/07/2021	|	 Variáveis Aleatórias Discretas	|	Síncrona	|
-|	29/07/2021	|		|	Assíncrona	|
-|	03/08/2021	|	 Modelos de Variável Aleatórias Discretas	|	Síncrona	|
-|	05/08/2021	|		|	Assíncrona	|
-|	10/08/2021	|	 Distribuição Normal.	|	Síncrona	|
-|	12/08/2021	|		|	Assíncrona	|
-|	17/08/2021	|	 Introdução à Inferência Estatística	|	Síncrona	|
-|	19/08/2021	|	PROVA 2	|		|
-|	24/08/2021	|	Segunda Chamada	|		|
-|	26/08/2021	|	OPTATIVA	|		|
+|	21/09/2021	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
+|	23/09/2021	|		|	Assíncrona	|
+|	28/09/2021	|	 Tabelas e Gráficos	|	Síncrona	|
+|	30/09/2021	|	 Laboratório Software R	|	Síncrona	|
+|	05/10/2021	|	 Medidas de Posição	|	Síncrona	|
+|	07/10/2021	|		|	Assíncrona	|
+|	14/10/2021	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
+|	19/10/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
+|	21/10/2021	|	 Laboratório Software R	|	Síncrona	|
+|	26/10/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
+|	04/11/2021	|	PROVA 1	|		|
+|	09/11/2021	|	 Introdução à Probabilidade	|	Síncrona	|
+|	11/11/2021	|		Laboratório Software R	|	Síncrona	|
+|	16/11/2021	|	 Variáveis Aleatórias Discretas	|	Síncrona	|
+|	18/11/2021	|		|	Assíncrona	|
+|	23/11/2021	|	 Modelos de Variável Aleatórias Discretas	|	Síncrona	|
+|	25/11/2021	|	 |	Assíncrona	|
+|	30/11/2021	|	 Distribuição Normal	|	Síncrona	|
+|	02/12/2021	|		|	Assíncrona	|
+|	07/12/2021	|	 Introdução à Inferência Estatística	|	Síncrona	|
+|	09/12/2021	|	PROVA 2	|		|
+|	14/12/2021	|	Não haverá aula	|		|
+|	16/12/2021	|	OPTATIVA	|		|
 
 
 
