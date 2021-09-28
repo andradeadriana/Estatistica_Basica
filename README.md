@@ -81,7 +81,8 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
-Horário será divulgado em breve.
+![image](https://user-images.githubusercontent.com/8046998/135077593-77b8fc64-463a-423e-8bae-88573c8d9242.png)
+
 
 
 
