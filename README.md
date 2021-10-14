@@ -102,11 +102,11 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	07/10/2021	|		|	Assíncrona	|
 |	14/10/2021	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
 |	19/10/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
-|	21/10/2021	|	 Laboratório Software R	|	Síncrona	|
+|	21/10/2021	|		|	Assíncrona	|
 |	26/10/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
 |	04/11/2021	|	PROVA 1	|		|
 |	09/11/2021	|	 Introdução à Probabilidade	|	Síncrona	|
-|	11/11/2021	|		Laboratório Software R	|	Síncrona	|
+|	11/11/2021	|		|	Assíncrona	|
 |	16/11/2021	|	 Variáveis Aleatórias Discretas	|	Síncrona	|
 |	18/11/2021	|		|	Assíncrona	|
 |	23/11/2021	|	 Modelos de Variável Aleatórias Discretas	|	Síncrona	|
