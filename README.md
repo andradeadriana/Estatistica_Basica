@@ -81,7 +81,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
-![image](https://user-images.githubusercontent.com/8046998/135077593-77b8fc64-463a-423e-8bae-88573c8d9242.png)
+![image]()
 
 
 
@@ -94,29 +94,32 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
-|	21/09/2021	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
-|	23/09/2021	|		|	Assíncrona	|
-|	28/09/2021	|	 Tabelas e Gráficos	|	Síncrona	|
-|	30/09/2021	|	 Laboratório Software R	|	Síncrona	|
-|	05/10/2021	|	 Medidas de Posição	|	Síncrona	|
-|	07/10/2021	|		|	Assíncrona	|
-|	14/10/2021	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
-|	19/10/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
-|	21/10/2021	|		|	Assíncrona	|
-|	26/10/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
-|	04/11/2021	|	PROVA 1	|		|
-|	09/11/2021	|	 Introdução à Probabilidade	|	Síncrona	|
-|	11/11/2021	|		|	Assíncrona	|
-|	16/11/2021	|	 Variáveis Aleatórias Discretas	|	Síncrona	|
-|	18/11/2021	|		|	Assíncrona	|
-|	23/11/2021	|	 Modelos de Variável Aleatórias Discretas	|	Síncrona	|
-|	25/11/2021	|	 |	Assíncrona	|
-|	30/11/2021	|	 Distribuição Normal	|	Síncrona	|
-|	02/12/2021	|		|	Assíncrona	|
-|	07/12/2021	|	 Introdução à Inferência Estatística	|	Síncrona	|
-|	09/12/2021	|	PROVA 2	|		|
-|	14/12/2021	|	Não haverá aula	|		|
-|	16/12/2021	|	OPTATIVA	|		|
+|	01/02/2022	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
+|	03/02/2022 	|		|	Assíncrona |
+|	08/02/2022	|	 Tabelas e Gráficos	|	Síncrona	|
+|	10/02/2022	|	 Laboratório Software R	|	Síncrona	|
+|	15/02/2022	|	 Medidas de Posição	|	Síncrona	|
+|	17/02/2022	|		|	Assíncrona	|
+|	22/02/2022	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
+|	24/02/2022	|	 Laboratório Software R	|	Síncrona	|
+|	03/03/2022	|  Análise bidimensional para variáveis quantitativas	|	Síncrona	|
+|	08/03/2022	|		|	Assíncrona	|
+|	10/03/2022	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
+|	15/03/2022	|	PROVA 1	|		|
+|	17/03/2022	| Síncrona: Laboratório Software R
+|	22/03/2022	|	 Introdução à Probabilidade	|	Síncrona	|
+|	24/03/2022	|	 Variáveis Aleatórias Discretas	|	Síncrona	|
+|	29/03/2022	|		|	Assíncrona	|
+|	31/03/2022	|	 Modelos de Variável Aleatórias Discretas	|	Síncrona	|
+|	05/04/2022	|	 Variável Aleatória Contínua	|
+|	07/04/2022	|	 Distribuição Normal	|	Síncrona	|
+|	12/04/2022	|		|	Assíncrona	|
+|	14/04/2022	|	 Introdução à Inferência Estatística	|	Síncrona	|
+|	19/04/2022	|		|	Assíncrona	|
+|	26/04/2022	|		|	Assíncrona	|
+|	28/04/2022	|	PROVA 2	|		|
+|	03/05/2022	|	Segunda Chamada	|		|
+|	05/05/2022	|	OPTATIVA	|		|
 
 
 
