@@ -136,9 +136,8 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
   
 |    Tópico                               | Material                | Link              
 |-----------------------------------------| -------------------     | ------------------- 
-| Tabelas                                 | Videoaula               | [link](https://drive.google.com/file/d/1PDik-3ONTG-Je7b1pBNLtcUo5o4LKZWh/view?usp=sharing)
+| Tabelas e  Gráficos - Variáveis Qualitativas      | Videoaula               | [link](https://drive.google.com/file/d/1PDik-3ONTG-Je7b1pBNLtcUo5o4LKZWh/view?usp=sharing)
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1ZjiEXm1HgUDhxe_cSsHjjKnNbU6CM66c/view?usp=sharing)
-| Gráficos - Variáveis Qualitativas       | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1W3C4Fwcm7eXhQeQq2Q1Wnt8YbA1ZDEdO/view?usp=sharing)
 | Gráficos - Variáveis Quantitativas      | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/14fG4BMQeMz3lhCKrLuK8RjKmgaVXZjjy/view?usp=sharing)
