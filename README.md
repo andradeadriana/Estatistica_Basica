@@ -159,7 +159,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1W3C4Fwcm7eXhQeQq2Q1Wnt8YbA1ZDEdO/view?usp=sharing)
 |Gráficos - Variáveis Quantitativas      | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/14fG4BMQeMz3lhCKrLuK8RjKmgaVXZjjy/view?usp=sharing)
-|                                         | **Lista de Exercícios_1** | [link](https://drive.google.com/file/d/1qrHz88ojBaCbrzWfVAScFWuwgwUtFtSG/view?usp=sharing)
+|                                         | **Lista de Exercícios_1** | [link](https://drive.google.com/file/d/10PbGP-QEeIHohNU8MWGhpMQ-_KkBoUOP/view?usp=sharing)
 | Medidas de Posição e Tendência Central  | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/19CykvMJNImFXDOe43crMEMpPQhSHQ48Q/view?usp=sharing)
 | Medidas de Dispersão                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
