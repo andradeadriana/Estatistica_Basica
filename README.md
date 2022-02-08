@@ -81,7 +81,24 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
-![image]()
+---
+
+Introdução à Bioestatística - Rafael Santos de Oliveira
+rafaelsoliveira@live.com
+
+5ª: 13h – 17h
+
+5ª: 18h – 22h
+
+---
+Estatística Básica - Bernardo de Assis Oliveira
+bassis929@gmail.com
+
+2ª: 13h – 16h
+
+3ª: 13h - 15h
+
+4ª: 13h – 16h
 
 
 
