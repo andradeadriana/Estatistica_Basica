@@ -67,6 +67,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 + Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
 + Tutorial sobre compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
 + Exemplo de uso do compilador do R para celular [link](https://drive.google.com/open?id=1TY-cvygeZdKG6nsQZ-xXuQ5MhH7O4JQD)
++ Para utilizar o R diretamente do navegador de internet no ambiente *Colab*, sem precisar instalar, clique no link https://colab.to/r
 
 
 **SLIDES DE TUTORIAL DO R**
@@ -111,29 +112,29 @@ bassis929@gmail.com
 
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
-|	01/02/2022	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
+|	01/02/2022	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
 |	03/02/2022 	|		|	Assíncrona |
-|	08/02/2022	|	 Tabelas e Gráficos	|	Síncrona	|
-|	10/02/2022	|	 Laboratório Software R	|	Síncrona	|
-|	15/02/2022	|	 Medidas de Posição	|	Síncrona	|
+|	08/02/2022	| Tabelas e Gráficos	|	Síncrona	|
+|	10/02/2022	| Laboratório Software R	|	Síncrona	|
+|	15/02/2022	| Medidas de Posição	|	Síncrona	|
 |	17/02/2022	|		|	Assíncrona	|
-|	22/02/2022	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
-|	24/02/2022	|	 Laboratório Software R	|	Síncrona	|
-|	03/03/2022	|  Análise bidimensional para variáveis quantitativas	|	Síncrona	|
-|	08/03/2022	|		|	Assíncrona	|
-|	10/03/2022	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
+|	22/02/2022	|	Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
+|	24/02/2022	| Laboratório Software R	|	Síncrona	|
+|	03/03/2022	| Análise bidimensional para variáveis quantitativas|	Assíncrona	|
+|	08/03/2022	|	Análise bidimensional para variáveis quantitativas|		|
+|	10/03/2022	| Análise bidimensional para variáveis qualitativas	|		|
 |	15/03/2022	|	PROVA 1	|		|
-|	17/03/2022	| Síncrona: Laboratório Software R
-|	22/03/2022	|	 Introdução à Probabilidade	|	Síncrona	|
-|	24/03/2022	|	 Variáveis Aleatórias Discretas	|	Síncrona	|
-|	29/03/2022	|		|	Assíncrona	|
-|	31/03/2022	|	 Modelos de Variável Aleatórias Discretas	|	Síncrona	|
-|	05/04/2022	|	 Variável Aleatória Contínua	|
-|	07/04/2022	|	 Distribuição Normal	|	Síncrona	|
-|	12/04/2022	|		|	Assíncrona	|
-|	14/04/2022	|	 Introdução à Inferência Estatística	|	Síncrona	|
-|	19/04/2022	|		|	Assíncrona	|
-|	26/04/2022	|		|	Assíncrona	|
+|	17/03/2022	| Introdução à Probabilidade
+|	22/03/2022	|	Introdução à Probabilidade 	|		|
+|	24/03/2022	|	Variáveis Aleatórias Discretas	|		|
+|	29/03/2022	|	Variáveis Aleatórias Discretas	|		|
+|	31/03/2022	|	Modelos de Variável Aleatórias Discretas	|		|
+|	05/04/2022	|	Modelos de Variável Aleatórias Discretas	|		|
+|	07/04/2022	|	Variável Aleatória Contínua	| 
+|	12/04/2022	|	Distribuição Normal	|		|	
+|	14/04/2022	|	Distribuição Normal	|		|	 
+|	19/04/2022	|	Introdução à Inferência Estatística	|		|
+|	26/04/2022	|	Introdução à Inferência Estatística	|		|
 |	28/04/2022	|	PROVA 2	|		|
 |	03/05/2022	|	Segunda Chamada	|		|
 |	05/05/2022	|	OPTATIVA	|		|
