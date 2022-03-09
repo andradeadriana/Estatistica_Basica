@@ -58,7 +58,12 @@ TRIOLA, Mario F. et al. Introdução à estatística. Rio de Janeiro: ltc, 2005.
 
 ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Administração e Economia. Cengage Learning, 2008
 
+****************************************************************************************************************************************************************************
 
+## **PROVAS**
+P1 - 17/03/2022
+
+Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
 ****************************************************************************************************************************************************************************
 
@@ -123,8 +128,8 @@ bassis929@gmail.com
 |	03/03/2022	| Análise bidimensional para variáveis quantitativas|	Assíncrona	|
 |	08/03/2022	|	Análise bidimensional para variáveis quantitativas|		|
 |	10/03/2022	| Análise bidimensional para variáveis qualitativas	|		|
-|	15/03/2022	|	PROVA 1	|		|
-|	17/03/2022	| Introdução à Probabilidade
+|	15/03/2022	|	Análise bidimensional para variáveis qualitativas|		|
+|	17/03/2022	| PROVA 1	
 |	22/03/2022	|	Introdução à Probabilidade 	|		|
 |	24/03/2022	|	Variáveis Aleatórias Discretas	|		|
 |	29/03/2022	|	Variáveis Aleatórias Discretas	|		|
