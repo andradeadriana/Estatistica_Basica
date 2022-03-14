@@ -81,6 +81,10 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 - Análise de base de dados [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
 
 
+**Prática no R**
+- Arquivo com comandos [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
+- Arquivo com conjunto de dados [link](https://drive.google.com/file/d/15sv9E-4Zy8FMC7bYg5zdrued4DIC4nue/view?usp=sharing)
+
 ****************************************************************************************************************************************************************************
 
 **MONITORIA**
