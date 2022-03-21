@@ -101,14 +101,6 @@ rafaelsoliveira@live.com
 5ª: 18h – 22h
 
 ---
-Estatística Básica - Bernardo de Assis Oliveira
-bassis929@gmail.com
-
-2ª: 13h – 16h
-
-3ª: 13h - 15h
-
-4ª: 13h – 16h
 
 
 
@@ -195,7 +187,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/18IVAb1LpvIu_C-3LMfqjSubDg7TjDY7r/view?usp=sharing)     
 |                                         | **Lista de Exercícios_7**     | [link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)
 | Variáveis Aleatórias Contínuas-Slides   | Slides                  | [link](https://drive.google.com/file/d/1r28kBN8WsFo3cgFxOBivGol7dcf_vO3-/view?usp=sharing) 
-| Material Complementar. Leitura Opcional.                  |                         |
+|                                         |                         |
 | Distribuição Normal                     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
