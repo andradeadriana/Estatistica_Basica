@@ -133,7 +133,7 @@ rafaelsoliveira@live.com
 |	05/04/2022	|	Modelos de Variável Aleatórias Discretas	|		|
 |	07/04/2022	|	Variável Aleatória Contínua	| 
 |	12/04/2022	|	Distribuição Normal	|		|	
-|	14/04/2022	|	Distribuição Normal	|		|	 
+|	14/04/2022	|	Não haverá aula	|		|	 
 |	19/04/2022	|	Introdução à Inferência Estatística	|		|
 |	26/04/2022	|	Introdução à Inferência Estatística	|		|
 |	28/04/2022	|	PROVA 2	|		|
