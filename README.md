@@ -36,7 +36,11 @@ Neste ambiente serão disponibilizados materiais relacionados com as disciplinas
 
 - Variáveis Aleatórias Discretas
 
+- Modelos de Variáveis Aleatórias Discretas
+
 - Variáveis Aleatórias Contínuas
+
+- Distribuição Normal
 
 - Introdução à Inferência Estatística
 
@@ -62,7 +66,9 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 ## **PROVAS**
 P1 - 12/07/2022
+
 P2 - 06/09/2022
+
 Optativa - 20/09/2022
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
