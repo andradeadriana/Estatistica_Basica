@@ -61,7 +61,9 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 17/03/2022
+P1 - 12/07/2022
+P2 - 06/09/2022
+Optativa - 20/09/2022
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -93,12 +95,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 ---
 
-Introdução à Bioestatística - Rafael Santos de Oliveira
-rafaelsoliveira@live.com
 
-5ª: 13h – 17h
-
-5ª: 18h – 22h
 
 ---
 
@@ -111,34 +108,8 @@ rafaelsoliveira@live.com
 ## CRONOGRAMA 
 
 
-| Data                  |  Tópico                                          |   Atividade   |
-| -------------------   | -----------------------------------------------|---------------|
-|	01/02/2022	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
-|	03/02/2022 	|		|	Assíncrona |
-|	08/02/2022	| Tabelas e Gráficos	|	Síncrona	|
-|	10/02/2022	| Laboratório Software R	|	Síncrona	|
-|	15/02/2022	| Medidas de Posição	|	Síncrona	|
-|	17/02/2022	|		|	Assíncrona	|
-|	22/02/2022	|	Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
-|	24/02/2022	| Laboratório Software R	|	Síncrona	|
-|	03/03/2022	| Análise bidimensional para variáveis quantitativas|	Assíncrona	|
-|	08/03/2022	|	Análise bidimensional para variáveis quantitativas|		|
-|	10/03/2022	| Análise bidimensional para variáveis qualitativas	|		|
-|	15/03/2022	|	Análise bidimensional para variáveis qualitativas|		|
-|	17/03/2022	| PROVA 1	
-|	22/03/2022	|	Introdução à Probabilidade 	|		|
-|	24/03/2022	|	Variáveis Aleatórias Discretas	|		|
-|	29/03/2022	|	Variáveis Aleatórias Discretas	|		|
-|	31/03/2022	|	Modelos de Variável Aleatórias Discretas	|		|
-|	05/04/2022	|	Modelos de Variável Aleatórias Discretas	|		|
-|	07/04/2022	|	Variável Aleatória Contínua	| 
-|	12/04/2022	|	Distribuição Normal	|		|	
-|	14/04/2022	|	Não haverá aula	|		|	 
-|	19/04/2022	|	Introdução à Inferência Estatística	|		|
-|	26/04/2022	|	Introdução à Inferência Estatística	|		|
-|	28/04/2022	|	PROVA 2	|		|
-|	03/05/2022	|	Segunda Chamada	|		|
-|	05/05/2022	|	OPTATIVA	|		|
+![Crognograma_ESTATBAS](https://user-images.githubusercontent.com/8046998/170575716-7973ef3c-289f-485a-8f35-9881b65cd60c.png)
+
 
 
 
