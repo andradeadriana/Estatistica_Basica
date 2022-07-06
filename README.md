@@ -65,7 +65,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 12/07/2022
+P1 - 19/07/2022
 
 P2 - 06/09/2022
 
@@ -125,8 +125,8 @@ sala vaga no PAT (Pavilhão de aulas teóricas)
 ## CRONOGRAMA 
 
 
-![Crognograma_ESTATBAS](https://user-images.githubusercontent.com/8046998/170575716-7973ef3c-289f-485a-8f35-9881b65cd60c.png)
 
+![image](https://user-images.githubusercontent.com/8046998/177643605-c7be3eee-ee5d-40d0-824b-f2afe5e23380.png)
 
 
 
