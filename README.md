@@ -101,18 +101,6 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 ---
 
-Adel de Almeida Maffra Junior
-
-juniormaffra8@gmail.com 
-
-sala vaga no PAT (Pavilhão de aulas teóricas)
-  |Dia| Horário|
-  |----|----------|
-  |2ª	| 13h - 15h	|
-  |3ª	| 15h – 17h |
-  |4ª	| 13h - 15h |
-  |5ª	| 15h – 17h	|
-
 
 ---
 
