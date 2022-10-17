@@ -65,11 +65,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 19/07/2022
+P1 - 06/12/2022
 
-P2 - 06/09/2022
+P2 - 28/02/2023
 
-Optativa - 20/09/2022
+Optativa - 14/03/2023
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -113,9 +113,43 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 ## CRONOGRAMA 
 
 
-
-![image](https://user-images.githubusercontent.com/8046998/177643605-c7be3eee-ee5d-40d0-824b-f2afe5e23380.png)
-
+|	Data	|	Tópico	|
+|	-----	|	--------------------------------------------------------	|
+|	18/10/2022	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
+|	20/10/2022	|	Gráficos	|
+|	25/10/2022	|	Exercícios	|
+|	27/10/2022	|	Medidas de Posição	|
+|	01/11/2022	|	Medidas de Dispersão	|
+|	03/11/2022	|	Atividade 1	|
+|	08/11/2022	|	Boxplot - Exercícios	|
+|	10/11/2022	|	Atividade 2	|
+|	17/11/2022	|	Medidas de posição e dispersão para dados grupados	|
+|	22/11/2022	|	Análise bidimensional para variáveis quantitativas	|
+|	24/11/2022	|	Exercícios	|
+|	29/11/2022	|	Análise bidimensional para variáveis qualitativas	|
+|	01/12/2022	|	Exercícios	|
+|	06/12/2022	|	PROVA 1	|
+|	08/12/2022	|	Introdução à Probabilidade	|
+|	13/12/2022	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
+|	15/12/2022	|	Exercícios	|
+|	20/12/2022	|	Variáveis Aleatórias Discretas	|
+|	22/12/2022	|	Exercícios	|
+|	27/12/2022	|	Recesso Escolar 27/12/2022 a 19/01/2023	|
+|	24/01/2023	|	Modelos de Variável Aleatórias Discretas	|
+|	26/01/2023	|	Exercícios	|
+|	31/01/2023	|	Variáveis Aleatórias Contínuas	|
+|	02/02/2023	|	Exercícios	|
+|	07/02/2023	|	Modelo Normal	|
+|	09/02/2023	|	Exercícios	|
+|	14/02/2023	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
+|	16/02/2023	|	Exercícios	|
+|	21/02/2023	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
+|	23/02/2023	|	Exercícios	|
+|	28/02/2023	|	PROVA 2	|
+|	02/03/2023	|	Não haverá aula	|
+|	07/03/2023	|	2ª Chamada	|
+|	09/03/2023	|	Não haverá aula	|
+|	14/03/2023	|	OPTATIVA	|
 
 
 
