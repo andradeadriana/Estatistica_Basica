@@ -120,9 +120,9 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	25/10/2022	|	Exercícios	|
 |	27/10/2022	|	Medidas de Posição	|
 |	01/11/2022	|	Medidas de Dispersão	|
-|	03/11/2022	|	Atividade 1	|
+|	03/11/2022	|	Não haverá aula	|
 |	08/11/2022	|	Boxplot - Exercícios	|
-|	10/11/2022	|	Atividade 2	|
+|	10/11/2022	|	Não haverá aula	|
 |	17/11/2022	|	Medidas de posição e dispersão para dados grupados	|
 |	22/11/2022	|	Análise bidimensional para variáveis quantitativas	|
 |	24/11/2022	|	Exercícios	|
