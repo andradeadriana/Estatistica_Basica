@@ -65,7 +65,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 06/12/2022
+P1 - 13/12/2022
 
 P2 - 28/02/2023
 
@@ -123,21 +123,21 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	03/11/2022	|	Não haverá aula	|
 |	08/11/2022	|	Boxplot - Exercícios	|
 |	10/11/2022	|	Não haverá aula	|
-|	17/11/2022	|	Medidas de posição e dispersão para dados grupados	|
-|	22/11/2022	|	Análise bidimensional para variáveis quantitativas	|
-|	24/11/2022	|	Exercícios	|
-|	29/11/2022	|	Análise bidimensional para variáveis qualitativas	|
-|	01/12/2022	|	Exercícios	|
-|	06/12/2022	|	PROVA 1	|
-|	08/12/2022	|	Introdução à Probabilidade	|
-|	13/12/2022	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
-|	15/12/2022	|	Exercícios	|
-|	20/12/2022	|	Variáveis Aleatórias Discretas	|
+|	17/11/2022	|	Exercícios	|
+|	22/11/2022	|	Medidas de posição e dispersão para dados grupados	|
+|	24/11/2022	|	Análise bidimensional para variáveis quantitativas	|
+|	29/11/2022	|	Exercícios + Aula R|
+|	01/12/2022	|	Análise bidimensional para variáveis qualitativas	|
+|	06/12/2022	|	Exercícios + Aula R|
+|	08/12/2022	|	Exercícios Revisão |
+|	13/12/2022	|	PROVA 1|
+|	15/12/2022	|	Introdução à Probabilidade	|
+|	20/12/2022	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
 |	22/12/2022	|	Exercícios	|
 |	27/12/2022	|	Recesso Escolar 27/12/2022 a 19/01/2023	|
-|	24/01/2023	|	Modelos de Variável Aleatórias Discretas	|
+|	24/01/2023	|	Variável Aleatória Discreta	|
 |	26/01/2023	|	Exercícios	|
-|	31/01/2023	|	Variáveis Aleatórias Contínuas	|
+|	31/01/2023	|	Modelos de Variável Aleatória Discreta	|
 |	02/02/2023	|	Exercícios	|
 |	07/02/2023	|	Modelo Normal	|
 |	09/02/2023	|	Exercícios	|
@@ -179,6 +179,8 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Assimetria e Boxplot                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1nXg5wfPJbWhW2Hjw6Fev7oMuwaU45ARd/view?usp=sharing)
 |                                         | **Lista de Exercícios_2** |[link](https://drive.google.com/file/d/1QozsMAuBHGxgItTZ_hgK8eiz4A-B0ZNM/view?usp=sharing)
+| Medidas para dados agrupados            |Slides da Aula| [link](https://drive.google.com/file/d/1E5sTFCPLwWmyA2apgxuQNLNQo2U2b4XA/view?usp=share_link)|
+|                                         |**Lista de Exercícios_2.1**| [link](https://drive.google.com/file/d/1bWAJL6fyWXP7WF0W8UUnIny5hrax32Wh/view?usp=share_link)| 
 | Análise Bidimensional - Quantitativa    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1N9Vj9RzuphinVq34F7lIyB6TmtzABM7u/view?usp=sharing)  
 |                                         | **Lista de Exercícios_3** | [link](https://drive.google.com/open?id=1tyzP9s4l0YPg_zObI7KRoMLVDiKIebdZ)      
