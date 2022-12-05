@@ -75,6 +75,15 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 ****************************************************************************************************************************************************************************
 
+## **TRABALHO**
+
+- Orientações para o trabalho: [link](https://drive.google.com/file/d/1-qJZIfh1-ZDO_viDV9Legu53bw3JF4WC/view?usp=share_link)
+- Arquivo com a base de dados: [link](https://drive.google.com/file/d/1-nJzmCMIk75z85khIJOyZhdf-z_o63LY/view?usp=share_link)
+- Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
+
+
+****************************************************************************************************************************************************************************
+
  **INSTALAÇÃO DO R**
 
 + Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
@@ -90,7 +99,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 
 **Prática no R**
-- Arquivo com comandos [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
+- Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
 - Arquivo com conjunto de dados [link](https://drive.google.com/file/d/15sv9E-4Zy8FMC7bYg5zdrued4DIC4nue/view?usp=sharing)
 
 ****************************************************************************************************************************************************************************
@@ -100,7 +109,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
 ---
-
+![image](https://user-images.githubusercontent.com/8046998/205676157-9f9727cc-8c55-4f5b-9e2d-35fe871a05bf.png)
 
 ---
 
