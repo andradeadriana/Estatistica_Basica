@@ -109,7 +109,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
 ---
-![image](https://user-images.githubusercontent.com/8046998/205676157-9f9727cc-8c55-4f5b-9e2d-35fe871a05bf.png)
+![image](https://user-images.githubusercontent.com/8046998/214630387-ca94395b-59e6-4636-8c7d-47af1eb0f17c.png)
 
 ---
 
