@@ -151,11 +151,11 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	07/02/2023	|	Modelo Normal	|
 |	09/02/2023	|	Exercícios	|
 |	14/02/2023	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
-|	16/02/2023	|	Exercícios	|
-|	21/02/2023	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
-|	23/02/2023	|	Exercícios	|
-|	28/02/2023	|	PROVA 2	|
-|	02/03/2023	|	Não haverá aula	|
+|	16/02/2023	|	Não haverá aula	|
+|	21/02/2023	|	Não haverá aula - Carnaval	|
+|	23/02/2023	|	Não haverá aula - Carnaval	|
+|	28/02/2023	|	Exercícios	|
+|	02/03/2023	|	PROVA 2|
 |	07/03/2023	|	2ª Chamada	|
 |	09/03/2023	|	Não haverá aula	|
 |	14/03/2023	|	OPTATIVA	|
