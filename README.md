@@ -4,7 +4,7 @@
 **Prof. Adriana Andrade (DEMAT/UFRRJ)**
 andrade.ufrrj@gmail.com
 
-Neste ambiente serão disponibilizados materiais relacionados com as disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina se encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
+Neste ambiente serão disponibilizados materiais relacionados às disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina se encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
 
 
 ****************************************************************************************************************************************************************************
@@ -67,7 +67,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ## **PROVAS**
 P1 - 13/12/2022
 
-P2 - 28/02/2023
+P2 - 02/03/2023
 
 Optativa - 14/03/2023
 
