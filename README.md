@@ -65,11 +65,13 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 13/12/2022
+P1 - 25/05/2023
 
-P2 - 02/03/2023
+P2 - 18/07/2023
 
-Optativa - 14/03/2023
+Segunda Chamada - 25/07/2023
+
+Optativa - 01/08/2023
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -124,41 +126,38 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	18/10/2022	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
-|	20/10/2022	|	Gráficos	|
-|	25/10/2022	|	Exercícios	|
-|	27/10/2022	|	Medidas de Posição	|
-|	01/11/2022	|	Medidas de Dispersão	|
-|	03/11/2022	|	Não haverá aula	|
-|	08/11/2022	|	Boxplot - Exercícios	|
-|	10/11/2022	|	Não haverá aula	|
-|	17/11/2022	|	Exercícios	|
-|	22/11/2022	|	Medidas de posição e dispersão para dados grupados	|
-|	24/11/2022	|	Análise bidimensional para variáveis quantitativas	|
-|	29/11/2022	|	Exercícios + Aula R|
-|	01/12/2022	|	Análise bidimensional para variáveis qualitativas	|
-|	06/12/2022	|	Exercícios + Aula R|
-|	08/12/2022	|	Exercícios Revisão |
-|	13/12/2022	|	PROVA 1|
-|	15/12/2022	|	Introdução à Probabilidade	|
-|	20/12/2022	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
-|	22/12/2022	|	Exercícios	|
-|	27/12/2022	|	Recesso Escolar 27/12/2022 a 19/01/2023	|
-|	24/01/2023	|	Variável Aleatória Discreta	|
-|	26/01/2023	|	Exercícios	|
-|	31/01/2023	|	Modelos de Variável Aleatória Discreta	|
-|	02/02/2023	|	Exercícios	|
-|	07/02/2023	|	Modelo Normal	|
-|	09/02/2023	|	Exercícios	|
-|	14/02/2023	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
-|	16/02/2023	|	Não haverá aula	|
-|	21/02/2023	|	Não haverá aula - Carnaval	|
-|	23/02/2023	|	Não haverá aula - Carnaval	|
-|	28/02/2023	|	Exercícios	|
-|	02/03/2023	|	PROVA 2|
-|	07/03/2023	|	Não haverá aula|
-|	09/03/2023	|	2ª Chamada		|
-|	14/03/2023	|	OPTATIVA	|
+|	11/04/2023	|	Não haverá aula.	|
+|	13/04/2023	|	Alunos liberados para atividades de recepção dos cauloros. Não haverá aula.	|
+|	18/04/2023	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
+|	20/04/2023	|	Gráficos	|
+|	25/04/2023	|	Medidas de Posição	|
+|	27/04/2023	|	Medidas de Dispersão - Assimetria - Boxplot	|
+|	02/05/2023	|	Laboratório Software R	|
+|	04/05/2023	|	Medidas de posição e dispersão para dados agrupados em tabelas de frequência	|
+|	09/05/2023	|	Análise bidimensional para variáveis quantitativas	|
+|	11/05/2023	|	Exercícios	|
+|	16/05/2023	|	Análise bidimensional para variáveis qualitativas	|
+|	18/05/2023	|	Laboratório Software R	|
+|	23/05/2023	|	Exercícios	|
+|	25/05/2023	|	PROVA 1	|
+|	30/05/2023	|	Introdução à Probabilidade	|
+|	01/06/2023	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
+|	06/06/2023	|	Exercícios	|
+|	13/06/2023	|	Variáveis Aleatórias Discretas	|
+|	15/06/2023	|	Modelos de Variável Aleatórias Discretas	|
+|	20/06/2023	|	Exercícios	|
+|	22/06/2023	|	Variáveis Aleatórias Contínuas	|
+|	27/06/2023	|	Modelo Normal	|
+|	29/06/2023	|	Exercícios	|
+|	04/07/2023	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
+|	06/07/2023	|	Exercícios	|
+|	11/07/2023	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
+|	13/07/2023	|	Exercícios	|
+|	18/07/2023	|	PROVA 2	|
+|	20/07/2023	|	Não haverá aula	|
+|	25/07/2023	|	Aplicação da 2ª Chamada. Vista de Prova	|
+|	27/07/2023	|	Não haverá aula	|
+|	01/08/2023	|	OPTATIVA	|
 
 
 
