@@ -187,7 +187,6 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Assimetria e Boxplot                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1nXg5wfPJbWhW2Hjw6Fev7oMuwaU45ARd/view?usp=sharing)
 |                                         | **Lista de Exercícios_2** |[link](https://drive.google.com/file/d/1TedufQ4xI6aajhaqcZndQKcB1HvwENE5/view?usp=share_link)
-|                                         | **Lista de Exercícios_2.1** |[link]()
 | Medidas Resumo dados agrupados            |Slides da Aula| [link](https://drive.google.com/file/d/1E5sTFCPLwWmyA2apgxuQNLNQo2U2b4XA/view?usp=share_link)|
 |                                         |**Lista de Exercícios_2.1**| [link](https://drive.google.com/file/d/1bWAJL6fyWXP7WF0W8UUnIny5hrax32Wh/view?usp=share_link)| 
 | Análise Bidimensional - Quantitativa    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
