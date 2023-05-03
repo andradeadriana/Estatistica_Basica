@@ -122,7 +122,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	11/04/2023	|	Não haverá aula.	|
 |	13/04/2023	|	Alunos liberados para atividades de recepção dos cauloros. Não haverá aula.	|
 |	18/04/2023	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
-|	20/04/2023	|	Gráficos - aula cancelada	|
+|	20/04/2023	|	Gráficos - aula cancelada |
 |	25/04/2023	|	Medidas de Posição	|
 |	27/04/2023	|	Medidas de Dispersão - Assimetria - Boxplot	|
 |	02/05/2023	|	Laboratório Software R	|
