@@ -86,15 +86,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 ****************************************************************************************************************************************************************************
 
- **INSTALAÇÃO DO R**
-
-+ Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
-+ Tutorial sobre compilador do R para celular [link](https://www.youtube.com/watch?v=plF3TUEw0Lg) 
-+ Exemplo de uso do compilador do R para celular [link](https://drive.google.com/open?id=1TY-cvygeZdKG6nsQZ-xXuQ5MhH7O4JQD)
-+ Para utilizar o R diretamente do navegador de internet no ambiente *Colab*, sem precisar instalar, clique no link (https://colab.to/r)
-
-
-**SLIDES DE TUTORIAL DO R**
+ **SLIDES DE TUTORIAL DO R**
 - Instalação, gráficos e tabelas [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
 - Obtenção de Medidas Univariadas e Bivariadas [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
 - Análise de base de dados [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
@@ -130,7 +122,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	11/04/2023	|	Não haverá aula.	|
 |	13/04/2023	|	Alunos liberados para atividades de recepção dos cauloros. Não haverá aula.	|
 |	18/04/2023	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
-|	20/04/2023	|	Gráficos	|
+|	20/04/2023	|	Gráficos - aula cancelada	|
 |	25/04/2023	|	Medidas de Posição	|
 |	27/04/2023	|	Medidas de Dispersão - Assimetria - Boxplot	|
 |	02/05/2023	|	Laboratório Software R	|
