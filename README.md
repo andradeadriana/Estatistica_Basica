@@ -75,6 +75,35 @@ Optativa - 01/08/2023
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
+
+****************************************************************************************************************************************************************************
+
+**SOFTWARE R**
+
+ **Slides de Tutorial R**
+- Instalação, gráficos e tabelas [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
+- Obtenção de Medidas Univariadas e Bivariadas [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
+- Análise de base de dados [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
+
+**Uso do R sem instalar o programa**
+
+- Plataforma Posit R Studio Cloud
+1) Acesse https://login.rstudio.cloud/login?redirect=%2F
+2) Faça login, pode utilizar sua conta google
+3) No lado esquerdo superior da tela, clique em New Project/New RStudio Project
+
+
+- Plataforma Colab do Google
+ 1) Acesse https://colab.research.google.com/
+ 2) Depois clique em Arquivo/Criar novo notebook
+ 
+ 
+**Prática no R**
+- Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
+- Arquivo com conjunto de dados [link](https://drive.google.com/file/d/15sv9E-4Zy8FMC7bYg5zdrued4DIC4nue/view?usp=sharing)
+
+
+
 ****************************************************************************************************************************************************************************
 
 ## **TRABALHO**
@@ -82,19 +111,6 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 - Orientações para o trabalho: [link](https://drive.google.com/file/d/1-qJZIfh1-ZDO_viDV9Legu53bw3JF4WC/view?usp=share_link)
 - Arquivo com a base de dados: [link](https://drive.google.com/file/d/1-nJzmCMIk75z85khIJOyZhdf-z_o63LY/view?usp=share_link)
 - Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
-
-
-****************************************************************************************************************************************************************************
-
- **SLIDES DE TUTORIAL DO R**
-- Instalação, gráficos e tabelas [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
-- Obtenção de Medidas Univariadas e Bivariadas [link](https://drive.google.com/file/d/1GxmcjQWc8Y2Xr4DcuJ0Uvceqf1G3VzvW/view?usp=sharing)
-- Análise de base de dados [link](https://drive.google.com/file/d/14scTH03i4lL5vRFKoGjXAxYQ5S_U052V/view?usp=sharing)
-
-
-**Prática no R**
-- Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
-- Arquivo com conjunto de dados [link](https://drive.google.com/file/d/15sv9E-4Zy8FMC7bYg5zdrued4DIC4nue/view?usp=sharing)
 
 ****************************************************************************************************************************************************************************
 
