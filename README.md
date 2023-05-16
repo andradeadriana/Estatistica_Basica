@@ -197,10 +197,10 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1nXg5wfPJbWhW2Hjw6Fev7oMuwaU45ARd/view?usp=sharing)
 |                                         | **Lista de Exercícios_2** |[link](https://drive.google.com/file/d/1TedufQ4xI6aajhaqcZndQKcB1HvwENE5/view?usp=share_link)
 | Medidas Resumo dados agrupados            |Slides da Aula| [link](https://drive.google.com/file/d/1E5sTFCPLwWmyA2apgxuQNLNQo2U2b4XA/view?usp=share_link)|
-|                                         |**Lista de Exercícios_2.1**| [link](https://drive.google.com/file/d/1bWAJL6fyWXP7WF0W8UUnIny5hrax32Wh/view?usp=share_link)| 
+|                                         |**Lista de Exercícios_2.1**| [link](https://drive.google.com/file/d/1ayNr1E5hfR_V2tiegIe64uLJNjnfJim8/view?usp=share_link)| 
 | Análise Bidimensional - Quantitativa    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1N9Vj9RzuphinVq34F7lIyB6TmtzABM7u/view?usp=sharing)  
-|                                         | **Lista de Exercícios_3** | [link](https://drive.google.com/file/d/1ayNr1E5hfR_V2tiegIe64uLJNjnfJim8/view?usp=share_link)    
+|                                         | **Lista de Exercícios_3** | [link](https://drive.google.com/file/d/1TrqlC5lZax8cBMwbdrW4WR4DvyjMF-8g/view?usp=share_link)    
 | Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
 |                                         | **Lista de Exercícios_4** | [link](https://drive.google.com/file/d/1SInLWB89IKMsZQ-iLCKjP5MNHBdo-0Cs/view?usp=sharing) 
