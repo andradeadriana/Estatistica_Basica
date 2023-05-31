@@ -99,7 +99,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
  
  
 **Prática no R**
-- Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/15qj25DYiMvQajpsadqzeW6gSQLbA3-FC/view?usp=sharing)
+- Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/1R9ZSZ4Oo0wcRJCGq99Qb6Yo1mlLx2d0P/view?usp=sharing)
 - Arquivo com conjunto de dados [link](https://drive.google.com/file/d/15sv9E-4Zy8FMC7bYg5zdrued4DIC4nue/view?usp=sharing)
 
 
