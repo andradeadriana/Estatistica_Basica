@@ -108,10 +108,10 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 ## **TRABALHO**
 
-- Orientações para o trabalho: [link](https://drive.google.com/open?id=1S6Qb5iz4_JAkSN_Fj4bTOfge9X-IIdUm&usp=drive_fs)
-- Arquivo com a base de dados: [base](https://drive.google.com/open?id=1S54R67xckkhwicZEFSKEK0iCKf7kTVPc&usp=drive_fs)
-- Arquivo com comandos -  [Script](https://drive.google.com/file/d/1R9ZSZ4Oo0wcRJCGq99Qb6Yo1mlLx2d0P/view?usp=sharing)
-- Arquivo com comandos - txt [link](https://drive.google.com/open?id=1S6DkJ-it5ibqsC3-zkjSYtb5oGtUGS5N&usp=drive_fs)
+- Orientações para o trabalho: [link](https://drive.google.com/file/d/1S6Qb5iz4_JAkSN_Fj4bTOfge9X-IIdUm/view?usp=sharing)
+- Arquivo com a base de dados: [base](https://drive.google.com/file/d/1S54R67xckkhwicZEFSKEK0iCKf7kTVPc/view?usp=sharing)
+- Arquivo com comandos -  [Script](https://drive.google.com/file/d/1gCDhscXdYD5XMFmVOxmd3qsXDITIveCm/view?usp=sharing)
+- Arquivo com comandos - txt [link](https://drive.google.com/file/d/1S6DkJ-it5ibqsC3-zkjSYtb5oGtUGS5N/view?usp=sharing)
 
 ****************************************************************************************************************************************************************************
 
