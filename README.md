@@ -65,13 +65,13 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 25/05/2023
+P1 - 17/10/2023
 
-P2 - 18/07/2023
+P2 - 07/12/2023
 
-Segunda Chamada - 25/07/2023
+Segunda Chamada - 14/12/2023
 
-Optativa - 01/08/2023
+Optativa - 19/12/2023
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
