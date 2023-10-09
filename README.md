@@ -65,7 +65,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 17/10/2023
+P1 - 24/10/2023
 
 P2 - 07/12/2023
 
@@ -148,14 +148,14 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	03/10/2023	|	Análise bidimensional para variáveis qualitativas	|
 |	05/10/2023	|	Laboratório Software R	|
 |	10/10/2023	|	Exercícios	|
-|	17/10/2023	|	PROVA 1	|
-|	19/10/2023	|	Introdução à Probabilidade	|
-|	24/10/2023	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
-|	26/10/2023	|	Exercícios	|
-|	31/10/2023	|	Variáveis Aleatórias Discretas	|
-|	07/11/2023	|	Modelos de Variável Aleatórias Discretas	|
-|	09/11/2023	|	Exercícios	|
-|	14/11/2023	|	Variáveis Aleatórias Contínuas	|
+|	17/10/2023	|SNCT - Não haverá aula	|
+|	19/10/2023	|SNCT - Não haverá aula	|
+|	24/10/2023	|	PROVA 1	|
+|	26/10/2023	|	Introdução à Probabilidade	|
+|	31/10/2023	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
+|	07/11/2023	|	Variáveis Aleatórias Discretas	|
+|	09/11/2023	|	Modelos de Variável Aleatórias Discretas	|
+|	14/11/2023	|	Exercícios	|
 |	16/11/2023	|	Modelo Normal	|
 |	21/11/2023	|	Exercícios	|
 |	23/11/2023	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
