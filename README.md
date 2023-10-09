@@ -100,7 +100,8 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
  
 **Prática no R**
 - Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/1R9ZSZ4Oo0wcRJCGq99Qb6Yo1mlLx2d0P/view?usp=sharing)
-- Arquivo com conjunto de dados [link](https://drive.google.com/file/d/15sv9E-4Zy8FMC7bYg5zdrued4DIC4nue/view?usp=sharing)
+- Arquivo com comando - formato txt  [link](https://drive.google.com/file/d/1-8kVBiPIalY0l4AmRNC2lYwSqQ5eWmKi/view?usp=sharing )
+- Arquivo com conjunto de dados [link](https://drive.google.com/file/d/1-MgURY0H4g2bEJ5MqTbwjcmNJyLB-_H9/view?usp=sharing)
 
 
 
@@ -108,10 +109,8 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 ## **TRABALHO**
 
-- Orientações para o trabalho: [link](https://drive.google.com/file/d/1S6Qb5iz4_JAkSN_Fj4bTOfge9X-IIdUm/view?usp=sharing)
-- Arquivo com a base de dados: [base]()
-- Arquivo com comandos -  [Script](https://drive.google.com/file/d/1gCDhscXdYD5XMFmVOxmd3qsXDITIveCm/view?usp=sharing)
-- Arquivo com comandos - txt [link](https://drive.google.com/file/d/1S6DkJ-it5ibqsC3-zkjSYtb5oGtUGS5N/view?usp=sharing)
+- Orientações para o trabalho: [link](https://drive.google.com/file/d/1vEtr9luU9I2JRm7G8GZfOk5-c2iy1Ndd/view?usp=sharing)
+- Arquivo com a base de dados: [base](https://drive.google.com/file/d/1-_mbLtZfdyF2Vb3b6JEbW7eogGmkiw-i/view?usp=sharing)
 
 ****************************************************************************************************************************************************************************
 
