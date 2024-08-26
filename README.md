@@ -65,13 +65,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 24/10/2023
+P1 - 17/10/2024
 
-P2 - 07/12/2023
+P2 - 10/12/2024
 
-Segunda Chamada - 14/12/2023
-
-Optativa - 19/12/2023
+Optativa - 19/12/2024
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -79,6 +77,8 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 ****************************************************************************************************************************************************************************
 
 **SOFTWARE R**
+
+**Site: Aprenda Estatística com R** [site](https://andradeadriana.github.io/praticaR/)
 
  **Slides de Tutorial R**
 - Instalação, gráficos e tabelas [link](https://drive.google.com/file/d/1YBTDVznjzbB5LOkqFLzu46s45cfxFaRg/view?usp=sharing)
@@ -109,8 +109,8 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 ## **TRABALHO**
 
-- Orientações para o trabalho: [link](https://drive.google.com/file/d/1vEtr9luU9I2JRm7G8GZfOk5-c2iy1Ndd/view?usp=sharing)
-- Arquivo com a base de dados: [base](https://drive.google.com/file/d/1-_mbLtZfdyF2Vb3b6JEbW7eogGmkiw-i/view?usp=sharing)
+- Orientações para o trabalho: [link]()
+- Arquivo com a base de dados: [base]()
 
 ****************************************************************************************************************************************************************************
 
@@ -120,7 +120,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 ---
 
-![image](![monitoria_2023_2](https://github.com/andradeadriana/Estatistica_Basica/assets/8046998/3718de8b-0477-47a6-a162-3295278a4cd7)
+![image](![monitoria_2023_2]()
 
 ---
 
@@ -135,38 +135,39 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	29/08/2023	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
-|	31/08/2023	|	Gráficos  |
-|	05/09/2023	|	Medidas de Posição	|
-|	12/09/2023	|	Medidas de Dispersão - Assimetria - Boxplot	|
-|	14/09/2023	|	Exercícios	|
-|	19/09/2023	|	Laboratório Software R	|
-|	21/09/2023	|	Medidas de posição e dispersão para dados agrupados em tabelas de frequência	|
-|	26/09/2023	|	Análise bidimensional para variáveis quantitativas	|
-|	28/09/2023	|	Exercícios	|
-|	03/10/2023	|	Análise bidimensional para variáveis qualitativas	|
-|	05/10/2023	|	Laboratório Software R	|
-|	10/10/2023	|	Exercícios	|
-|	17/10/2023	|SNCT - Não haverá aula	|
-|	19/10/2023	|SNCT - Não haverá aula	|
-|	24/10/2023	|	PROVA 1	|
-|	26/10/2023	|	Introdução à Probabilidade	|
-|	31/10/2023	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
-|	07/11/2023	|	Variáveis Aleatórias Discretas	|
-|	09/11/2023	|	Modelos de Variável Aleatórias Discretas	|
-|	14/11/2023	|	Exercícios	|
-|	16/11/2023	|	Modelo Normal	|
-|	21/11/2023	|	Exercícios	|
-|	23/11/2023	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
-|	28/11/2023	|	Exercícios	|
-|	30/11/2023	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
-|	05/12/2023	|	Exercícios	|
-|	07/12/2023	|	PROVA 2	|
-|	12/12/2023	|	Não haverá aula	|
-|	14/12/2023	|	Aplicação da 2ª Chamada. Vista de Prova	|
-|	19/12/2023	|	OPTATIVA|
-|	21/12/2023	|	Não haverá aula		|
-
+|	27/08/2024	|	Apresentação do Curso. Tipos de variáveis	|
+|	29/08/2024	|	Tabelas; Gráficos	|
+|	03/09/2024	|	Medidas de Posição	|
+|	05/09/2024	|	Medidas de Dispersão	|
+|	10/09/2024	|	Boxplot - Assimetria	|
+|	12/09/2024	|	Exercícios	|
+|	17/09/2024	|	Laboratório Software R	|
+|	19/09/2024	|	Medidas de posição e dispersão para dados agrupados em tabelas de frequência	|
+|	24/09/2024	|	Exercícios	|
+|	26/09/2024	|	Análise bidimensional para variáveis quantitativas	|
+|	03/10/2024	|	Exercícios	|
+|	08/10/2024	|	XI Reunião Anual de Iniciação Científica	|
+|	10/10/2024	|	Análise bidimensional para variáveis qualitativas	|
+|	15/10/2024	|	Exercícios	|
+|	17/10/2024	|	PROVA 1	|
+|	22/10/2024	|	Laboratório Software R	|
+|	24/10/2024	|	Introdução à Probabilidade	|
+|	29/10/2024	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
+|	31/10/2024	|	Exercícios	|
+|	05/11/2024	|	Variáveis Aleatórias Discretas	|
+|	07/11/2024	|	Exercícios	|
+|	12/11/2024	|	Modelos de Variável Aleatórias Discretas	|
+|	14/11/2024	|	Exercícios	|
+|	19/11/2024	|	Variáveis Aleatórias Contínuas; Modelo Normal	|
+|	21/11/2024	|	Exercícios	|
+|	26/11/2024	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
+|	28/11/2024	|	Exercícios	|
+|	03/12/2024	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
+|	05/12/2024	|	Exercícios	|
+|	10/12/2024	|	PROVA 2	|
+|	12/12/2024	|	Não haverá aula	|
+|	17/12/2024	|	Aplicação da 2ª Chamada. Vista de Prova	|
+|	19/12/2024	|	OPTATIVA	|
 
 
 ## MATERIAIS
