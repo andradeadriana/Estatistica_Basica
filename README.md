@@ -65,11 +65,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 17/10/2024
+P1 - 14/10/2024
 
-P2 - 10/12/2024
+P2 - 11/12/2024
 
-Optativa - 19/12/2024
+Optativa - 18/12/2024
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -135,39 +135,34 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	27/08/2024	|	Apresentação do Curso. Tipos de variáveis	|
-|	29/08/2024	|	Tabelas; Gráficos	|
-|	03/09/2024	|	Medidas de Posição	|
-|	05/09/2024	|	Medidas de Dispersão	|
-|	10/09/2024	|	Boxplot - Assimetria	|
-|	12/09/2024	|	Exercícios	|
-|	17/09/2024	|	Laboratório Software R	|
-|	19/09/2024	|	Medidas de posição e dispersão para dados agrupados em tabelas de frequência	|
-|	24/09/2024	|	Exercícios	|
-|	26/09/2024	|	Análise bidimensional para variáveis quantitativas	|
-|	03/10/2024	|	Exercícios	|
-|	08/10/2024	|	XI Reunião Anual de Iniciação Científica	|
-|	10/10/2024	|	Análise bidimensional para variáveis qualitativas	|
-|	15/10/2024	|	Exercícios	|
-|	17/10/2024	|	PROVA 1	|
-|	22/10/2024	|	Laboratório Software R	|
-|	24/10/2024	|	Introdução à Probabilidade	|
-|	29/10/2024	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
-|	31/10/2024	|	Exercícios	|
-|	05/11/2024	|	Variáveis Aleatórias Discretas	|
-|	07/11/2024	|	Exercícios	|
-|	12/11/2024	|	Modelos de Variável Aleatórias Discretas	|
-|	14/11/2024	|	Exercícios	|
-|	19/11/2024	|	Variáveis Aleatórias Contínuas; Modelo Normal	|
-|	21/11/2024	|	Exercícios	|
-|	26/11/2024	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
-|	28/11/2024	|	Exercícios	|
-|	03/12/2024	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
-|	05/12/2024	|	Exercícios	|
-|	10/12/2024	|	PROVA 2	|
-|	12/12/2024	|	Não haverá aula	|
-|	17/12/2024	|	Aplicação da 2ª Chamada. Vista de Prova	|
-|	19/12/2024	|	OPTATIVA	|
+|	09/09/2024	|	Medidas de Posição		|
+|	11/09/2024	|	Medidas de Dispersão - Boxplot		|
+|	16/09/2024	|	Não haverá aula		|
+|	18/09/2024	|	Exercícios		|
+|	23/09/2024	|	Medidas para dados agrupados em tabelas de frequência - Exercícios		|
+|	25/09/2024	|	Análise bidimensional para variáveis quantitativas		|
+|	30/09/2024	|	Laboratório Software R		|
+|	02/10/2024	|	Análise bidimensional para variáveis qualitativas		|
+|	07/10/2024	|	Exercícios		|
+|	09/10/2024	|	XI Reunião Anual de Iniciação Científica		|
+|	14/10/2024	|	PROVA 1		|
+|	16/10/2024	|	Laboratório Software R		|
+|	21/10/2024	|	Introdução à Probabilidade		|
+|	23/10/2024	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
+|	30/10/2024	|	Exercícios		|
+|	04/11/2024	|	Variáveis Aleatórias Discretas		|
+|	06/11/2024	|	Exercícios		|
+|	11/11/2024	|	Modelos de Variável Aleatórias Discretas		|
+|	13/11/2024	|	Exercícios		|
+|	18/11/2024	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
+|	25/11/2024	|	Exercícios		|
+|	27/11/2024	|	Introdução à Inferência Estatística. Distribuição Amostral da Média		|
+|	02/12/2024	|	Exercícios		|
+|	04/12/2024	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
+|	09/12/2024	|	Exercícios		|
+|	11/12/2024	|	PROVA 2		|
+|	16/12/2024	|	Aplicação da 2ª Chamada. Vista de Prova		|
+|	18/12/2024	|	OPTATIVA		|
 
 
 ## MATERIAIS
