@@ -89,8 +89,10 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 - Plataforma Posit R Studio Cloud
 1) Acesse https://login.rstudio.cloud/login?redirect=%2F
+   
 2) Faça login, pode utilizar sua conta google
-3) No lado esquerdo superior da tela, clique em New Project/New RStudio Project
+   
+4) No lado esquerdo superior da tela, clique em New Project/New RStudio Project
 
 
 - Plataforma Colab do Google
@@ -109,7 +111,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 ## **TRABALHO**
 
-- Orientações para o trabalho: [link]()
+- Orientações para o trabalho: [link](https://drive.google.com/file/d/1n75YLAupmwxqSt3U014HZhIR0sE5voLW/view?usp=drive_link)
 - Arquivo com a base de dados: [base]()
 
 ****************************************************************************************************************************************************************************
