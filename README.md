@@ -67,9 +67,9 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ## **PROVAS**
 P1 - 14/10/2024
 
-P2 - 11/12/2024
+P2 - 04/12/2024
 
-Optativa - 18/12/2024
+Optativa - 16/12/2024
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -159,12 +159,11 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	18/11/2024	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
 |	25/11/2024	|	Exercícios		|
 |	27/11/2024	|	Introdução à Inferência Estatística. Distribuição Amostral da Média		|
+|	27/11/2024 	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
 |	02/12/2024	|	Exercícios		|
-|	04/12/2024	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
-|	09/12/2024	|	Exercícios		|
-|	11/12/2024	|	PROVA 2		|
-|	16/12/2024	|	Aplicação da 2ª Chamada. Vista de Prova		|
-|	18/12/2024	|	OPTATIVA		|
+|	04/12/2024	|	PROVA 2		|
+|	09/12/2024	|	Aplicação da 2ª Chamada. Vista de Prova		|
+|	16/12/2024	|	OPTATIVA		|
 
 
 ## MATERIAIS
