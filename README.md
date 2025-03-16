@@ -65,11 +65,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 14/10/2024
+P1 - 07/05/2024
 
-P2 - 04/12/2024
+P2 - 25/06/2024
 
-Optativa - 16/12/2024
+Optativa - 07/07/2024
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -112,7 +112,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 ## **TRABALHO**
 
 - Orientações para o trabalho: [link](https://drive.google.com/file/d/1n75YLAupmwxqSt3U014HZhIR0sE5voLW/view?usp=sharing)
-- Arquivo com a base de dados: [base](https://drive.google.com/file/d/14ALETTb1J8KxrYs6C2kT9ReysH30rK5L/view?usp=sharing)
+- Arquivo com a base de dados: [base]()
 
 ****************************************************************************************************************************************************************************
 
@@ -122,11 +122,10 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 ---
 
-![image](![monitoria_2023_2]()
+![image](https://github.com/user-attachments/assets/a54f7096-5d29-4bab-bd93-35c78dde0f9c)
+
 
 ---
-
-
 
 
 ****************************************************************************************************************************************************************************
@@ -137,33 +136,36 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	09/09/2024	|	Medidas de Posição		|
-|	11/09/2024	|	Medidas de Dispersão - Boxplot		|
-|	16/09/2024	|	Não haverá aula		|
-|	18/09/2024	|	Exercícios		|
-|	23/09/2024	|	Medidas para dados agrupados em tabelas de frequência - Exercícios		|
-|	25/09/2024	|	Análise bidimensional para variáveis quantitativas		|
-|	30/09/2024	|	Laboratório Software R		|
-|	02/10/2024	|	Análise bidimensional para variáveis qualitativas		|
-|	07/10/2024	|	Exercícios		|
-|	09/10/2024	|	XI Reunião Anual de Iniciação Científica		|
-|	14/10/2024	|	PROVA 1		|
-|	16/10/2024	|	Laboratório Software R		|
-|	21/10/2024	|	Introdução à Probabilidade		|
-|	23/10/2024	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
-|	30/10/2024	|	Exercícios		|
-|	04/11/2024	|	Variáveis Aleatórias Discretas		|
-|	06/11/2024	|	Exercícios		|
-|	11/11/2024	|	Modelos de Variável Aleatórias Discretas		|
-|	13/11/2024	|	Exercícios		|
-|	18/11/2024	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
-|	25/11/2024	|	Exercícios		|
-|	27/11/2024	|	Introdução à Inferência Estatística. Distribuição Amostral da Média		|
-|	27/11/2024 	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
-|	02/12/2024	|	Exercícios		|
-|	04/12/2024	|	PROVA 2		|
-|	09/12/2024	|	Aplicação da 2ª Chamada. Vista de Prova		|
-|	16/12/2024	|	OPTATIVA		|
+|	17/03/2025	|	Apresentação do Curso. Tipos de variáveis. Tabelas 		|
+|	19/03/2025	|	Gráficos 		|
+|	24/03/2025	|	Medidas de Posição		|
+|	26/03/2025	|	Medidas de Dispersão - Boxplot		|
+|	31/03/2025	|	Exercícios		|
+|	02/04/2025	|	Laboratório Software R		|
+|	07/04/2025	|	Medidas para dados agrupados em tabelas de frequência 	|
+|	09/04/2025	|	Exercícios		|
+|	14/04/2025	|	Análise bidimensional para variáveis quantitativas		|
+|	16/04/2025	|	Exercícios		|
+|	28/04/2025	|	Análise bidimensional para variáveis qualitativas		|
+|	30/04/2025	|	Laboratório Software R		|
+|	05/050/2025	|	Exercícios		|
+|	07/05/2025	|	PROVA 1		|
+|	12/05/2025	|	Laboratório Software R		|
+|	14/05/2025	|	Introdução à Probabilidade		|
+|	21/05/2025	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
+|	26/05/2025	|	Exercícios		|
+|	28/05/2025	|	Variáveis Aleatórias Discretas		|
+|	02/06/2025	|	Exercícios		|
+|	04/06/2025	|	Modelos de Variável Aleatórias Discretas		|
+|	09/06/2025	|	Exercícios		|
+|	11/06/2025	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
+|	16/06/2025	|	Exercícios		|
+|	18/06/2025	|	Introdução à Inferência Estatística. 		|
+|	23/06/2025	|	Exercícios		|
+|	25/06/2025	|	PROVA 2		|
+|	30/06/2025	|	Aplicação da 2ª Chamada. Vista de Prova		|
+|  02/07/2025  | Não haverá aula|
+|	07/07/2025	|	OPTATIVA		|
 
 
 ## MATERIAIS
