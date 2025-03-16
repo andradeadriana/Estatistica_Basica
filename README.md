@@ -122,8 +122,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 ---
 
-![image](https://github.com/user-attachments/assets/a54f7096-5d29-4bab-bd93-35c78dde0f9c)
-
+![image](https://github.com/user-attachments/assets/be4dea6c-ca91-4f7f-af63-eedce330dbd5)
 
 ---
 
