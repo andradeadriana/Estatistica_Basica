@@ -111,8 +111,9 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 ## **TRABALHO**
 
-- Orientações para o trabalho: [link](https://drive.google.com/file/d/1n75YLAupmwxqSt3U014HZhIR0sE5voLW/view?usp=sharing)
+- Orientações para o trabalho: [link](https://drive.google.com/file/d/1jP5GBKeb3Xt02l0dD7KiNrsR-FuqwdOY/view?usp=sharing)
 - Arquivo com a base de dados: [base]()
+- **Entrega: 28/05/2025**
 
 ****************************************************************************************************************************************************************************
 
