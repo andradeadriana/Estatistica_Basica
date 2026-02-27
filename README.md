@@ -65,11 +65,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 29/09/2025
+P1 - 27/04/2026
 
-P2 - 26/11/2025
+P2 - 17/06/2026
 
-Optativa - 08/12/2025
+Optativa - 29/06/2026
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -87,23 +87,24 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 **Uso do R sem instalar o programa**
 
+- Plataforma Colab do Google
+ 1) Acesse https://colab.research.google.com/
+ 2) Depois clique em Arquivo/Criar novo notebook
+ 3) Depois vá no menu *Ambiente de Execução* => *Alterar o tipo de ambiente de execução* => Mude de Python para **R**
+
+
 - Plataforma Posit R Studio Cloud
 1) Acesse https://login.rstudio.cloud/login?redirect=%2F
    
 2) Faça login, pode utilizar sua conta google
    
 4) No lado esquerdo superior da tela, clique em New Project/New RStudio Project
-
-
-- Plataforma Colab do Google
- 1) Acesse https://colab.research.google.com/
- 2) Depois clique em Arquivo/Criar novo notebook
  
  
 **Prática no R**
 - Arquivo com comandos - SCRIPT [link](https://drive.google.com/file/d/1R9ZSZ4Oo0wcRJCGq99Qb6Yo1mlLx2d0P/view?usp=sharing)
 - Arquivo com comando - formato txt  [link](https://drive.google.com/file/d/1-8kVBiPIalY0l4AmRNC2lYwSqQ5eWmKi/view?usp=sharing )
-- Arquivo com conjunto de dados [link](https://drive.google.com/file/d/1-MgURY0H4g2bEJ5MqTbwjcmNJyLB-_H9/view?usp=sharing)
+- Arquivo com conjunto de dados de teste  [link](https://drive.google.com/file/d/1-MgURY0H4g2bEJ5MqTbwjcmNJyLB-_H9/view?usp=sharing)
 
 
 
@@ -112,8 +113,8 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 ## **TRABALHO**
 
 - Orientações para o trabalho: [link](https://drive.google.com/file/d/1Qa6aAkzWA0wgEfTl-SCZEeyGw3CRkJjj/view?usp=sharing)
-- Arquivo com a base de dados: [base](https://drive.google.com/file/d/1f1ckL9CJUd70L4biSEAaSY4C3SLfV-Rq/view?usp=sharing)
-- **Entrega: 13/10/2025**
+- Arquivo com a base de dados para utilizar na realização do Trabalho: [base]()
+- **Entrega: 04/05/2026**
 
 ****************************************************************************************************************************************************************************
 
@@ -137,39 +138,39 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	09/03//2025	|	Apresentação do Curso. Tipos de variáveis. Tabelas 		|
-|	11/03/2025	|	Gráficos 		|
-|	16/03/2025	|	Medidas de Posição		|
-|	18/03/2025	|	Medidas de Dispersão - Boxplot		|
-|	23/03/2025	|	Exercícios		|
-|	25/03/2025	|	Medidas para dados agrupados em tabelas de frequência 	|
-|	30/03/2025	|	Laboratório Software R				|
-|	01/04/2025	|	Análise bidimensional para variáveis quantitativas		|
-|	06/04/2025	|	Exercícios		|
-|	08/04/2025	|	Análise bidimensional para variáveis qualitativas		|
-|	13/04/2025	|	Laboratório Software R		|
-|	15/04/2025	|	Exercícios		|
-|	20/04/2025	|	Recesso Acadêmico		|
-|	22/04/2025	|	Recesso Acadêmico		|
-|	27/04/2025	|	PROVA 1		|
-|	29/04/2025	|	Laboratório Software R		|
-|	04/05/2025	|	Introdução à Probabilidade		|
-|	06/05/2025	|	Exercícios		|
-|	11/05/2025	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
-|	13/05/2025	|	Exercícios		|
-|	18/05/2025	|	Variáveis Aleatórias Discretas		|
-|	20/05/2025	|	Exercícios		|
-|	25/05/2025	|	Modelos de Variável Aleatórias Discretas		|
-|	27/01/2025	|	Exercícios		|
-|	01/06/2025	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
-|	03/06/2025	|	Exercícios		|
-|	08/06/2025	|	Introdução à Inferência Estatística. 		|
-|	10/06/2025	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
-|	15/06/2025	|	Exercícios		|
-|	17/06/2025	|	PROVA 2		|
-|	22/06/2025	|	Aplicação da 2ª Chamada. Vista de Prova		|
-|	24/06/2025	|	Não haverá aula |
-|	29/12/2025	|	OPTATIVA		|
+|	09/03//2026	|	Apresentação do Curso. Tipos de variáveis. Tabelas 		|
+|	11/03/2026	|	Gráficos 		|
+|	16/03/2026	|	Medidas de Posição		|
+|	18/03/2026	|	Medidas de Dispersão - Boxplot		|
+|	23/03/2026	|	Exercícios		|
+|	25/03/2026	|	Medidas para dados agrupados em tabelas de frequência 	|
+|	30/03/2026	|	Laboratório Software R				|
+|	01/04/2026	|	Análise bidimensional para variáveis quantitativas		|
+|	06/04/2026	|	Exercícios		|
+|	08/04/2026	|	Análise bidimensional para variáveis qualitativas		|
+|	13/04/2026	|	Laboratório Software R		|
+|	15/04/2026	|	Exercícios		|
+|	20/04/2026	|	Recesso Acadêmico		|
+|	22/04/2026	|	Recesso Acadêmico		|
+|	27/04/2026	|	PROVA 1		|
+|	29/04/2026	|	Laboratório Software R		|
+|	04/05/2026	|	Introdução à Probabilidade		|
+|	06/05/2026	|	Exercícios		|
+|	11/05/2026	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
+|	13/05/2026	|	Exercícios		|
+|	18/05/2026	|	Variáveis Aleatórias Discretas		|
+|	20/05/2026	|	Exercícios		|
+|	25/05/2026	|	Modelos de Variável Aleatórias Discretas		|
+|	27/01/2026	|	Exercícios		|
+|	01/06/2026	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
+|	03/06/2026	|	Exercícios		|
+|	08/06/2026	|	Introdução à Inferência Estatística. 		|
+|	10/06/2026	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
+|	15/06/2026	|	Exercícios		|
+|	17/06/2026	|	PROVA 2		|
+|	22/06/2026	|	Aplicação da 2ª Chamada. Vista de Prova		|
+|	24/06/2026	|	Não haverá aula |
+|	29/12/2026	|	OPTATIVA		|
 
 
 ## MATERIAIS
