@@ -154,24 +154,22 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	27/04/2025	|	PROVA 1		|
 |	29/04/2025	|	Laboratório Software R		|
 |	04/05/2025	|	Introdução à Probabilidade		|
-
 |	06/05/2025	|	Exercícios		|
 |	11/05/2025	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
 |	13/05/2025	|	Exercícios		|
 |	18/05/2025	|	Variáveis Aleatórias Discretas		|
 |	20/05/2025	|	Exercícios		|
-|	27/01/2025	|	Modelos de Variável Aleatórias Discretas		|
-|	01/06/2025	|	Exercícios		|
-|	03/06/2025	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
-|	08/06/2025	|	Exercícios		|
-|	10/06/2025	|	Introdução à Inferência Estatística. 		|
+|	25/05/2025	|	Modelos de Variável Aleatórias Discretas		|
+|	27/01/2025	|	Exercícios		|
+|	01/06/2025	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
+|	03/06/2025	|	Exercícios		|
+|	08/06/2025	|	Introdução à Inferência Estatística. 		|
+|	10/06/2025	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
 |	15/06/2025	|	Exercícios		|
-|	17/06/2025	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
-|	19/06/2025	|	Exercícios		|
-|	22/06/2025	|	PROVA 2		|
+|	17/06/2025	|	PROVA 2		|
+|	22/06/2025	|	Aplicação da 2ª Chamada. Vista de Prova		|
 |	24/06/2025	|	Não haverá aula |
-|	29/12/2025	|	Aplicação da 2ª Chamada. Vista de Prova		|
-|	01/12/2025	|	OPTATIVA		|
+|	29/12/2025	|	OPTATIVA		|
 
 
 ## MATERIAIS
