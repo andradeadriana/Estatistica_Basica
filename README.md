@@ -137,38 +137,41 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	18/08/2025	|	Apresentação do Curso. Tipos de variáveis. Tabelas 		|
-|	20/08/2025	|	Gráficos 		|
-|	25/08/2025	|	Medidas de Posição		|
-|	27/08/2025	|	Medidas de Dispersão - Boxplot		|
-|	01/09/2025	|	Exercícios		|
-|	03/09/2025	|	Medidas para dados agrupados em tabelas de frequência 	|
-|	08/09/2025	|	Laboratório Software R				|
-|	10/09/2025	|	Análise bidimensional para variáveis quantitativas		|
-|	15/09/2025	|	Exercícios		|
-|	17/09/2025	|	Análise bidimensional para variáveis qualitativas		|
-|	22/09/2025	|	Laboratório Software R		|
-|	24/09/2025	|	Exercícios		|
-|	29/09/2025	|	PROVA 1		|
-|	06/10/2025	|	Laboratório Software R		|
-|	08/10/2025	|	Introdução à Probabilidade		|
-|	13/10/2025	|	Exercícios		|
-|	15/10/2025	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
-|	20/10/2025	|	Exercícios		|
-|	22/10/2025	|	Variáveis Aleatórias Discretas		|
-|	27/10/2025	|	Exercícios		|
-|	29/10/2025	|	Modelos de Variável Aleatórias Discretas		|
-|	03/11/2025	|	Exercícios		|
-|	05/11/2025	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
-|	10/11/2025	|	Exercícios		|
-|	12/11/2025	|	Introdução à Inferência Estatística. 		|
-|	17/11/2025	|	Exercícios		|
-|	19/11/2025	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
-|	24/11/2025	|	Exercícios		|
-|	26/11/2025	|	PROVA 2		|
-|	01/12/2025	|	Aplicação da 2ª Chamada. Vista de Prova		|
-|  03/12/2025  | Não haverá aula|
-|	08/12/2025	|	OPTATIVA		|
+|	09/03//2025	|	Apresentação do Curso. Tipos de variáveis. Tabelas 		|
+|	11/03/2025	|	Gráficos 		|
+|	16/03/2025	|	Medidas de Posição		|
+|	18/03/2025	|	Medidas de Dispersão - Boxplot		|
+|	23/03/2025	|	Exercícios		|
+|	25/03/2025	|	Medidas para dados agrupados em tabelas de frequência 	|
+|	30/03/2025	|	Laboratório Software R				|
+|	01/04/2025	|	Análise bidimensional para variáveis quantitativas		|
+|	06/04/2025	|	Exercícios		|
+|	08/04/2025	|	Análise bidimensional para variáveis qualitativas		|
+|	13/04/2025	|	Laboratório Software R		|
+|	15/04/2025	|	Exercícios		|
+|	20/04/2025	|	Recesso Acadêmico		|
+|	22/04/2025	|	Recesso Acadêmico		|
+|	27/04/2025	|	PROVA 1		|
+|	29/04/2025	|	Laboratório Software R		|
+|	04/05/2025	|	Introdução à Probabilidade		|
+
+|	06/05/2025	|	Exercícios		|
+|	11/05/2025	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes		|
+|	13/05/2025	|	Exercícios		|
+|	18/05/2025	|	Variáveis Aleatórias Discretas		|
+|	20/05/2025	|	Exercícios		|
+|	27/01/2025	|	Modelos de Variável Aleatórias Discretas		|
+|	01/06/2025	|	Exercícios		|
+|	03/06/2025	|	Variáveis Aleatórias Contínuas; Modelo Normal		|
+|	08/06/2025	|	Exercícios		|
+|	10/06/2025	|	Introdução à Inferência Estatística. 		|
+|	15/06/2025	|	Exercícios		|
+|	17/06/2025	|	Intervalo de Confiança para média de uma população normal com variância Conhecida		|
+|	19/06/2025	|	Exercícios		|
+|	22/06/2025	|	PROVA 2		|
+|	24/06/2025	|	Não haverá aula |
+|	29/12/2025	|	Aplicação da 2ª Chamada. Vista de Prova		|
+|	01/12/2025	|	OPTATIVA		|
 
 
 ## MATERIAIS
