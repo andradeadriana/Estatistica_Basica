@@ -88,6 +88,7 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 **Uso do R sem instalar o programa**
 
 - Plataforma Colab do Google
+  
  1) Acesse https://colab.research.google.com/
  2) Depois clique em Arquivo/Criar novo notebook
  3) Depois vá no menu *Ambiente de Execução* => *Alterar o tipo de ambiente de execução* => Mude de Python para **R**
@@ -138,7 +139,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	09/03//2026	|	Apresentação do Curso. Tipos de variáveis. Tabelas 		|
+|	09/03/2026	|	Apresentação do Curso. Tipos de variáveis. Tabelas 		|
 |	11/03/2026	|	Gráficos 		|
 |	16/03/2026	|	Medidas de Posição		|
 |	18/03/2026	|	Medidas de Dispersão - Boxplot		|
